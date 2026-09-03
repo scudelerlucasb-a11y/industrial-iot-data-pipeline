@@ -1,0 +1,7370 @@
+[
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.86,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 2.32,
+      "pressao": 5.93,
+      "velocidade": 1288.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.89,
+    "medicoes": {
+      "temperatura": 60.4,
+      "vibracao": 1.91,
+      "pressao": 4.49,
+      "velocidade": 1020.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.88,
+    "medicoes": {
+      "temperatura": 65.5,
+      "vibracao": 2.08,
+      "pressao": 4.24,
+      "velocidade": 1181.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.63,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.36,
+      "pressao": 5.34,
+      "velocidade": 1153.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.98,
+    "medicoes": {
+      "temperatura": 70.5,
+      "vibracao": 2.77,
+      "pressao": 5.73,
+      "velocidade": 1155.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 15.18,
+    "medicoes": {
+      "temperatura": 67.8,
+      "vibracao": 2.61,
+      "pressao": 5.05,
+      "velocidade": 1237.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.51,
+    "medicoes": {
+      "temperatura": 68.4,
+      "vibracao": 2.7,
+      "pressao": 5.07,
+      "velocidade": 1228.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.14,
+    "medicoes": {
+      "temperatura": 63.5,
+      "vibracao": 2.2,
+      "pressao": 5.58,
+      "velocidade": 1109.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.67,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 2.59,
+      "pressao": 5.56,
+      "velocidade": 1304.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.45,
+    "medicoes": {
+      "temperatura": 59.3,
+      "vibracao": 1.43,
+      "pressao": 5.49,
+      "velocidade": 1288.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.69,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 2.11,
+      "pressao": 5.35,
+      "velocidade": 1257.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.48,
+    "medicoes": {
+      "temperatura": 68.9,
+      "vibracao": 1.9,
+      "pressao": 3.92,
+      "velocidade": 1220.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.6,
+    "medicoes": {
+      "temperatura": 60.4,
+      "vibracao": 1.65,
+      "pressao": 5.35,
+      "velocidade": 1200.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.5,
+    "medicoes": {
+      "temperatura": 56.7,
+      "vibracao": 2.13,
+      "pressao": 4.88,
+      "velocidade": 1314.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.5,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 2.23,
+      "pressao": 4.92,
+      "velocidade": 1143.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.02,
+    "medicoes": {
+      "temperatura": 70.8,
+      "vibracao": 1.47,
+      "pressao": 6.16,
+      "velocidade": 1258.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.35,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 2.27,
+      "pressao": 4.81,
+      "velocidade": 1327.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.6,
+    "medicoes": {
+      "temperatura": 63.9,
+      "vibracao": 1.95,
+      "pressao": 4.98,
+      "velocidade": 1222.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.69,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 1.92,
+      "pressao": 5.17,
+      "velocidade": 1133.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.3,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 2.96,
+      "pressao": 5.38,
+      "velocidade": 1238.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.44,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 1.76,
+      "pressao": 4.9,
+      "velocidade": 1386.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.19,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 1.88,
+      "pressao": 4.84,
+      "velocidade": 1165.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.5,
+    "medicoes": {
+      "temperatura": 67.5,
+      "vibracao": 2.1,
+      "pressao": 4.47,
+      "velocidade": 1177.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.42,
+    "medicoes": {
+      "temperatura": 61.7,
+      "vibracao": 1.93,
+      "pressao": 4.13,
+      "velocidade": 1189.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.71,
+    "medicoes": {
+      "temperatura": 70.1,
+      "vibracao": 2.62,
+      "pressao": 4.77,
+      "velocidade": 1250.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.07,
+    "medicoes": {
+      "temperatura": 73.6,
+      "vibracao": 2.47,
+      "pressao": 4.69,
+      "velocidade": 1166.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.73,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 2.1,
+      "pressao": 5.04,
+      "velocidade": 1256.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.83,
+    "medicoes": {
+      "temperatura": 68.5,
+      "vibracao": 2.29,
+      "pressao": 6.05,
+      "velocidade": 1111.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.7,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.31,
+      "pressao": 5.83,
+      "velocidade": 1258.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.23,
+    "medicoes": {
+      "temperatura": 69.3,
+      "vibracao": 2.81,
+      "pressao": 4.64,
+      "velocidade": 1242.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.4,
+    "medicoes": {
+      "temperatura": 58.0,
+      "vibracao": 2.65,
+      "pressao": 4.6,
+      "velocidade": 1188.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.77,
+    "medicoes": {
+      "temperatura": 59.2,
+      "vibracao": 1.76,
+      "pressao": 4.77,
+      "velocidade": 1134.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.21,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 2.28,
+      "pressao": 4.86,
+      "velocidade": 1165.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.81,
+    "medicoes": {
+      "temperatura": 68.7,
+      "vibracao": 2.03,
+      "pressao": -5.34,
+      "velocidade": 1157.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.68,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 1.84,
+      "pressao": 5.09,
+      "velocidade": 1239.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.27,
+    "medicoes": {
+      "temperatura": 56.4,
+      "vibracao": 1.64,
+      "pressao": 5.01,
+      "velocidade": 1233.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.93,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.09,
+      "pressao": 4.08,
+      "velocidade": 1226.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "falha",
+    "consumo_energia": 15.62,
+    "medicoes": {
+      "temperatura": 88.7,
+      "vibracao": 5.85,
+      "pressao": 4.83,
+      "velocidade": 1119.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.61,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.44,
+      "pressao": 5.6,
+      "velocidade": 1152.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.07,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 1.99,
+      "pressao": 4.7,
+      "velocidade": 1244.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.25,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 2.72,
+      "pressao": 4.95,
+      "velocidade": 1020.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.11,
+    "medicoes": {
+      "temperatura": 68.6,
+      "vibracao": 2.12,
+      "pressao": 4.64,
+      "velocidade": 1146.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.81,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 3.12,
+      "pressao": 4.48,
+      "velocidade": 1183.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.02,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 2.59,
+      "pressao": 4.98,
+      "velocidade": 1173.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.18,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 1.55,
+      "pressao": 4.4,
+      "velocidade": 1180.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.27,
+    "medicoes": {
+      "temperatura": 56.4,
+      "vibracao": 1.64,
+      "pressao": 5.01,
+      "velocidade": 1233.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.81,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 2.26,
+      "pressao": 5.41,
+      "velocidade": 1154.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.96,
+    "medicoes": {
+      "temperatura": 67.5,
+      "vibracao": 2.12,
+      "pressao": 5.31,
+      "velocidade": 1098.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.84,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 2.42,
+      "pressao": 5.02,
+      "velocidade": 1296.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.83,
+    "medicoes": {
+      "temperatura": 67.3,
+      "vibracao": 2.1,
+      "pressao": 5.2,
+      "velocidade": 1184.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.45,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 2.22,
+      "pressao": 4.66,
+      "velocidade": 1189.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.8,
+    "medicoes": {
+      "temperatura": 72.8,
+      "vibracao": 1.89,
+      "pressao": 5.0,
+      "velocidade": 1215.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.67,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 1.54,
+      "pressao": 4.56,
+      "velocidade": 1324.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.93,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 2.27,
+      "pressao": 5.6,
+      "velocidade": 1225.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.3,
+    "medicoes": {
+      "temperatura": 57.1,
+      "vibracao": 2.48,
+      "pressao": 4.62,
+      "velocidade": 1223.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.4,
+    "medicoes": {
+      "temperatura": 58.8,
+      "vibracao": 2.75,
+      "pressao": 4.77,
+      "velocidade": 1176.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.54,
+    "medicoes": {
+      "temperatura": 69.8,
+      "vibracao": 2.34,
+      "pressao": 5.66,
+      "velocidade": 1109.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.74,
+    "medicoes": {
+      "temperatura": 70.2,
+      "vibracao": 1.81,
+      "pressao": 4.34,
+      "velocidade": 1254.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.46,
+    "medicoes": {
+      "temperatura": 74.4,
+      "vibracao": 2.58,
+      "pressao": 4.58,
+      "velocidade": 1213.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.17,
+    "medicoes": {
+      "temperatura": 63.6,
+      "vibracao": 1.8,
+      "pressao": 4.73,
+      "velocidade": 1295.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.7,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 1.57,
+      "pressao": 5.46,
+      "velocidade": 1252.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.59,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 1.68,
+      "pressao": 5.57,
+      "velocidade": 1175.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.97,
+    "medicoes": {
+      "temperatura": 74.1,
+      "vibracao": 2.46,
+      "pressao": 4.36,
+      "velocidade": 1357.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.26,
+    "medicoes": {
+      "temperatura": 67.7,
+      "vibracao": 1.49,
+      "pressao": 4.89,
+      "velocidade": 1193.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.33,
+    "medicoes": {
+      "temperatura": 70.7,
+      "vibracao": 1.97,
+      "pressao": 3.87,
+      "velocidade": 1105.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.65,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 1.45,
+      "pressao": 5.51,
+      "velocidade": 1234.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.93,
+    "medicoes": {
+      "temperatura": 62.9,
+      "vibracao": 1.55,
+      "pressao": 5.28,
+      "velocidade": 1111.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.01,
+    "medicoes": {
+      "temperatura": 60.0,
+      "vibracao": 1.84,
+      "pressao": 4.67,
+      "velocidade": 1183.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.97,
+    "medicoes": {
+      "temperatura": 61.3,
+      "vibracao": 2.23,
+      "pressao": 5.79,
+      "velocidade": 1175.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.72,
+    "medicoes": {
+      "temperatura": 62.3,
+      "vibracao": 1.39,
+      "pressao": 5.38,
+      "velocidade": 1300.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.39,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 2.15,
+      "pressao": 5.09,
+      "velocidade": 985.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": " operando ",
+    "consumo_energia": 10.75,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.57,
+      "pressao": 4.75,
+      "velocidade": 1160.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.55,
+    "medicoes": {
+      "temperatura": 61.1,
+      "vibracao": 2.79,
+      "pressao": 4.87,
+      "velocidade": 1102.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.31,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 2.36,
+      "pressao": 5.23,
+      "velocidade": 1088.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.41,
+    "medicoes": {
+      "temperatura": 66.2,
+      "vibracao": 2.47,
+      "pressao": 4.64,
+      "velocidade": 1246.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.61,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.39,
+      "pressao": 4.99,
+      "velocidade": 1154.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.94,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 1.85,
+      "pressao": 4.66,
+      "velocidade": 1187.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 8.78,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 1.75,
+      "pressao": 5.05,
+      "velocidade": 1067.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "OPERANDO",
+    "consumo_energia": 11.6,
+    "medicoes": {
+      "temperatura": 70.7,
+      "vibracao": 1.72,
+      "pressao": 4.87,
+      "velocidade": 1202.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.77,
+    "medicoes": {
+      "temperatura": 75.2,
+      "vibracao": 1.94,
+      "pressao": 4.57,
+      "velocidade": 1206.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.92,
+    "medicoes": {
+      "temperatura": 69.8,
+      "vibracao": 1.95,
+      "pressao": 4.19,
+      "velocidade": 1234.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 17.58,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 5.75,
+      "pressao": 5.13,
+      "velocidade": 1052.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.32,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 2.55,
+      "pressao": 4.6,
+      "velocidade": 1208.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.4,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 1.89,
+      "pressao": 4.9,
+      "velocidade": 1129.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 15.97,
+    "medicoes": {
+      "temperatura": 62.7,
+      "vibracao": 2.45,
+      "pressao": 5.52,
+      "velocidade": 1087.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.7,
+    "medicoes": {
+      "temperatura": 69.5,
+      "vibracao": 2.02,
+      "pressao": 4.99,
+      "velocidade": 1107.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.95,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 1.68,
+      "pressao": 4.7,
+      "velocidade": 1213.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.64,
+    "medicoes": {
+      "temperatura": 65.5,
+      "vibracao": 2.2,
+      "pressao": 4.89,
+      "velocidade": 1279.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.12,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 1.8,
+      "pressao": 5.27,
+      "velocidade": 1117.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.62,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.16,
+      "pressao": 4.7,
+      "velocidade": 1270.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.22,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 1.24,
+      "pressao": 5.21,
+      "velocidade": 1211.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.75,
+    "medicoes": {
+      "temperatura": 71.1,
+      "vibracao": 1.94,
+      "pressao": 5.24,
+      "velocidade": 1170.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.64,
+    "medicoes": {
+      "temperatura": 58.0,
+      "vibracao": 2.62,
+      "pressao": 5.17,
+      "velocidade": 1176.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.86,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 2.01,
+      "pressao": 4.6,
+      "velocidade": 1227.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.52,
+    "medicoes": {
+      "temperatura": 61.6,
+      "vibracao": 1.77,
+      "pressao": 5.42,
+      "velocidade": 1219.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.08,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 1.55,
+      "pressao": 5.28,
+      "velocidade": 1360.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.37,
+    "medicoes": {
+      "temperatura": 65.1,
+      "vibracao": 2.29,
+      "pressao": 4.76,
+      "velocidade": 1292.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.05,
+    "medicoes": {
+      "temperatura": 72.0,
+      "vibracao": 1.79,
+      "pressao": 5.39,
+      "velocidade": 1122.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.64,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 1.33,
+      "pressao": 5.57,
+      "velocidade": 1232.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.43,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.26,
+      "pressao": 5.38,
+      "velocidade": 1062.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.61,
+    "medicoes": {
+      "temperatura": 60.3,
+      "vibracao": 1.71,
+      "pressao": 5.35,
+      "velocidade": 1355.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.07,
+    "medicoes": {
+      "temperatura": 73.5,
+      "vibracao": 2.43,
+      "pressao": 3.74,
+      "velocidade": 1196.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.27,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 2.68,
+      "pressao": 4.94,
+      "velocidade": 1185.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.09,
+    "medicoes": {
+      "temperatura": 69.4,
+      "vibracao": 2.81,
+      "pressao": 3.88,
+      "velocidade": 1145.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.43,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 2.56,
+      "pressao": 5.45,
+      "velocidade": 1335.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.51,
+    "medicoes": {
+      "temperatura": 66.6,
+      "vibracao": 2.49,
+      "pressao": 5.25,
+      "velocidade": 1268.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.4,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 1.66,
+      "pressao": -5.75,
+      "velocidade": 1217.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.89,
+    "medicoes": {
+      "temperatura": 60.5,
+      "vibracao": 1.52,
+      "pressao": 4.22,
+      "velocidade": 1178.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.46,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 1.82,
+      "pressao": 4.56,
+      "velocidade": 1121.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.08,
+    "medicoes": {
+      "temperatura": 64.6,
+      "vibracao": 1.92,
+      "pressao": 4.98,
+      "velocidade": 1243.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.84,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 2.62,
+      "pressao": 4.46,
+      "velocidade": 1097.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.58,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.65,
+      "pressao": 5.53,
+      "velocidade": 1217.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.28,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.11,
+      "pressao": 4.54,
+      "velocidade": 1205.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.47,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.15,
+      "pressao": 5.25,
+      "velocidade": 1115.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.67,
+    "medicoes": {
+      "temperatura": 63.3,
+      "vibracao": 2.35,
+      "pressao": 4.9,
+      "velocidade": 1205.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.15,
+    "medicoes": {
+      "temperatura": 69.4,
+      "vibracao": 2.44,
+      "pressao": 5.46,
+      "velocidade": 1112.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.38,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 2.42,
+      "pressao": 4.58,
+      "velocidade": 1154.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.93,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.63,
+      "pressao": 5.06,
+      "velocidade": 1265.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.98,
+    "medicoes": {
+      "temperatura": 57.9,
+      "vibracao": 2.66,
+      "pressao": 5.64,
+      "velocidade": 1186.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.72,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 2.41,
+      "pressao": 4.84,
+      "velocidade": 1198.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.78,
+    "medicoes": {
+      "temperatura": 68.7,
+      "vibracao": 2.32,
+      "pressao": 5.13,
+      "velocidade": 1267.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.33,
+    "medicoes": {
+      "temperatura": 63.1,
+      "vibracao": 2.77,
+      "pressao": 4.69,
+      "velocidade": 1226.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.56,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 1.71,
+      "pressao": 5.58,
+      "velocidade": 1253.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.35,
+    "medicoes": {
+      "temperatura": 68.8,
+      "vibracao": 2.47,
+      "pressao": 3.61,
+      "velocidade": 1264.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.87,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 2.33,
+      "pressao": 5.02,
+      "velocidade": 1192.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.59,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 2.39,
+      "pressao": 4.81,
+      "velocidade": 1368.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.1,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 1.75,
+      "pressao": 5.73,
+      "velocidade": 1062.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.16,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 2.5,
+      "pressao": 4.65,
+      "velocidade": 1264.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.06,
+    "medicoes": {
+      "temperatura": 72.4,
+      "vibracao": 2.95,
+      "pressao": 5.82,
+      "velocidade": 1276.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.11,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.23,
+      "pressao": 5.61,
+      "velocidade": 1178.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.4,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.0,
+      "pressao": 5.17,
+      "velocidade": 1194.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.72,
+    "medicoes": {
+      "temperatura": 81.1,
+      "vibracao": 4.84,
+      "pressao": 4.81,
+      "velocidade": 1294.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.37,
+    "medicoes": {
+      "temperatura": 72.1,
+      "vibracao": 1.7,
+      "pressao": 4.59,
+      "velocidade": 1305.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.62,
+    "medicoes": {
+      "temperatura": 69.8,
+      "vibracao": 2.66,
+      "pressao": 4.6,
+      "velocidade": 1168.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.32,
+    "medicoes": {
+      "temperatura": 70.1,
+      "vibracao": 2.52,
+      "pressao": 5.54,
+      "velocidade": 1090.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.67,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.4,
+      "pressao": 5.29,
+      "velocidade": 1114.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.4,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 4.26,
+      "pressao": 4.76,
+      "velocidade": 1388.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.5,
+    "medicoes": {
+      "temperatura": 72.2,
+      "vibracao": 2.06,
+      "pressao": 5.52,
+      "velocidade": 1227.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.65,
+    "medicoes": {
+      "temperatura": 74.2,
+      "vibracao": 1.93,
+      "pressao": 5.58,
+      "velocidade": 1329.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.35,
+    "medicoes": {
+      "temperatura": 71.7,
+      "vibracao": 2.0,
+      "pressao": 5.01,
+      "velocidade": 1193.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.4,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 1.34,
+      "pressao": 4.99,
+      "velocidade": 1286.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.05,
+    "medicoes": {
+      "temperatura": 58.6,
+      "vibracao": 3.06,
+      "pressao": 4.43,
+      "velocidade": 1266.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-13T12:00:00",
+    "status": "operando",
+    "consumo_energia": 9.08,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.07,
+      "pressao": 3.83,
+      "velocidade": 1099.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.74,
+    "medicoes": {
+      "temperatura": 58.0,
+      "vibracao": 1.7,
+      "pressao": 5.44,
+      "velocidade": 1123.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.4,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 1.88,
+      "pressao": 5.6,
+      "velocidade": 1110.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.21,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 2.19,
+      "pressao": 4.02,
+      "velocidade": 1364.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.27,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 1.52,
+      "pressao": 4.68,
+      "velocidade": 1414.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.01,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.14,
+      "pressao": 5.02,
+      "velocidade": 1246.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.88,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 2.28,
+      "pressao": 4.93,
+      "velocidade": 1129.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.0,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 2.28,
+      "pressao": 5.22,
+      "velocidade": 1113.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 16.32,
+    "medicoes": {
+      "temperatura": 80.1,
+      "vibracao": 5.21,
+      "pressao": 4.58,
+      "velocidade": 1254.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.89,
+    "medicoes": {
+      "temperatura": 65.2,
+      "vibracao": 2.78,
+      "pressao": 5.9,
+      "velocidade": 1259.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.79,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 1.23,
+      "pressao": 6.36,
+      "velocidade": 1178.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.5,
+    "medicoes": {
+      "temperatura": 71.6,
+      "vibracao": 1.8,
+      "pressao": 4.67,
+      "velocidade": 1125.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.19,
+    "medicoes": {
+      "temperatura": 56.6,
+      "vibracao": 2.44,
+      "pressao": 5.17,
+      "velocidade": 1064.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.57,
+    "medicoes": {
+      "temperatura": 69.3,
+      "vibracao": 1.97,
+      "pressao": 5.24,
+      "velocidade": 1418.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.82,
+    "medicoes": {
+      "temperatura": 57.7,
+      "vibracao": 1.67,
+      "pressao": 5.88,
+      "velocidade": 1053.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.62,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 1.59,
+      "pressao": 4.15,
+      "velocidade": 1152.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.77,
+    "medicoes": {
+      "temperatura": 61.4,
+      "vibracao": 2.08,
+      "pressao": 5.76,
+      "velocidade": 1160.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.36,
+    "medicoes": {
+      "temperatura": 60.3,
+      "vibracao": 1.91,
+      "pressao": 5.1,
+      "velocidade": 1215.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.19,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 1.48,
+      "pressao": 5.48,
+      "velocidade": 1161.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.71,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.21,
+      "pressao": 5.48,
+      "velocidade": 1117.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.46,
+    "medicoes": {
+      "temperatura": 999.0,
+      "vibracao": 2.36,
+      "pressao": 4.91,
+      "velocidade": 1167.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.51,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.62,
+      "pressao": 4.77,
+      "velocidade": 1146.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.17,
+    "medicoes": {
+      "temperatura": 59.3,
+      "vibracao": 2.51,
+      "pressao": 4.58,
+      "velocidade": 1198.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.84,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 1.76,
+      "pressao": 5.39,
+      "velocidade": 1267.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.94,
+    "medicoes": {
+      "temperatura": 56.1,
+      "vibracao": 2.36,
+      "pressao": 4.91,
+      "velocidade": 1226.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.29,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 2.05,
+      "pressao": 4.86,
+      "velocidade": 1236.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.3,
+    "medicoes": {
+      "temperatura": 66.7,
+      "vibracao": 1.43,
+      "pressao": 4.67,
+      "velocidade": 1283.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.23,
+    "medicoes": {
+      "temperatura": 54.5,
+      "vibracao": 1.99,
+      "pressao": 5.57,
+      "velocidade": 1061.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.71,
+    "medicoes": {
+      "temperatura": 78.4,
+      "vibracao": 14.8,
+      "pressao": 4.21,
+      "velocidade": 1088.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": " operando ",
+    "consumo_energia": 13.22,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 3.03,
+      "pressao": 4.81,
+      "velocidade": 1266.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.41,
+    "medicoes": {
+      "temperatura": 61.5,
+      "vibracao": 2.36,
+      "pressao": 4.53,
+      "velocidade": 1251.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.27,
+    "medicoes": {
+      "temperatura": 61.8,
+      "vibracao": 1.87,
+      "pressao": 4.37,
+      "velocidade": 1162.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.84,
+    "medicoes": {
+      "temperatura": 66.6,
+      "vibracao": 2.15,
+      "pressao": 3.58,
+      "velocidade": 1201.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.58,
+    "medicoes": {
+      "temperatura": 68.6,
+      "vibracao": 1.47,
+      "pressao": 4.99,
+      "velocidade": 1226.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.19,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 2.81,
+      "pressao": 5.07,
+      "velocidade": 1143.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.65,
+    "medicoes": {
+      "temperatura": 69.7,
+      "vibracao": 2.43,
+      "pressao": 5.3,
+      "velocidade": 1159.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.47,
+    "medicoes": {
+      "temperatura": 75.8,
+      "vibracao": 1.48,
+      "pressao": 4.66,
+      "velocidade": 1317.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.52,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 1.64,
+      "pressao": 4.29,
+      "velocidade": 1298.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.23,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 2.96,
+      "pressao": 5.12,
+      "velocidade": 1208.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.83,
+    "medicoes": {
+      "temperatura": 67.8,
+      "vibracao": 2.63,
+      "pressao": 5.16,
+      "velocidade": 1177.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.38,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.53,
+      "pressao": 4.53,
+      "velocidade": 1218.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.53,
+    "medicoes": {
+      "temperatura": 61.6,
+      "vibracao": 2.36,
+      "pressao": 5.23,
+      "velocidade": 1241.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.55,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 2.68,
+      "pressao": 4.89,
+      "velocidade": 1075.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.47,
+    "medicoes": {
+      "temperatura": 59.5,
+      "vibracao": 2.52,
+      "pressao": 5.5,
+      "velocidade": 1141.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.84,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 1.57,
+      "pressao": 5.67,
+      "velocidade": 1294.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.09,
+    "medicoes": {
+      "temperatura": 60.9,
+      "vibracao": 1.92,
+      "pressao": 5.04,
+      "velocidade": 1311.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.33,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 3.0,
+      "pressao": 5.48,
+      "velocidade": 1224.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.68,
+    "medicoes": {
+      "temperatura": 60.0,
+      "vibracao": 2.41,
+      "pressao": 4.63,
+      "velocidade": 1171.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.16,
+    "medicoes": {
+      "temperatura": 64.5,
+      "vibracao": 2.34,
+      "pressao": 5.11,
+      "velocidade": 1243.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.86,
+    "medicoes": {
+      "temperatura": 65.2,
+      "vibracao": 2.42,
+      "pressao": 4.71,
+      "velocidade": 1202.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.67,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 3.16,
+      "pressao": 4.99,
+      "velocidade": 1242.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.85,
+    "medicoes": {
+      "temperatura": 68.7,
+      "vibracao": 1.51,
+      "pressao": 5.91,
+      "velocidade": 1273.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.36,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 3.19,
+      "pressao": 4.75,
+      "velocidade": 1281.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.0,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.01,
+      "pressao": 4.89,
+      "velocidade": 1316.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.76,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 2.28,
+      "pressao": 4.81,
+      "velocidade": 970.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.91,
+    "medicoes": {
+      "temperatura": 73.3,
+      "vibracao": 2.08,
+      "pressao": 5.05,
+      "velocidade": 1214.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.46,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 1.48,
+      "pressao": 5.75,
+      "velocidade": 1133.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.93,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 2.28,
+      "pressao": 4.47,
+      "velocidade": 1279.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.44,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 2.14,
+      "pressao": 5.44,
+      "velocidade": 1258.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.66,
+    "medicoes": {
+      "temperatura": 59.8,
+      "vibracao": 2.32,
+      "pressao": 4.55,
+      "velocidade": 1142.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.09,
+    "medicoes": {
+      "temperatura": 64.7,
+      "vibracao": 1.7,
+      "pressao": 4.52,
+      "velocidade": 1266.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.76,
+    "medicoes": {
+      "temperatura": 60.2,
+      "vibracao": 1.77,
+      "pressao": 5.34,
+      "velocidade": 1186.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-16T12:00:00",
+    "status": "operando",
+    "consumo_energia": 9.02,
+    "medicoes": {
+      "temperatura": 59.3,
+      "vibracao": 1.99,
+      "pressao": 3.94,
+      "velocidade": 1075.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.29,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.37,
+      "pressao": 4.78,
+      "velocidade": 1260.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.18,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.0,
+      "pressao": 5.41,
+      "velocidade": 1069.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.3,
+    "medicoes": {
+      "temperatura": 62.7,
+      "vibracao": 2.37,
+      "pressao": 5.17,
+      "velocidade": 1211.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.67,
+    "medicoes": {
+      "temperatura": 61.4,
+      "vibracao": 1.58,
+      "pressao": 6.0,
+      "velocidade": 1191.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.38,
+    "medicoes": {
+      "temperatura": 60.5,
+      "vibracao": 1.56,
+      "pressao": 4.8,
+      "velocidade": 1192.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.96,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.58,
+      "pressao": 4.83,
+      "velocidade": 1240.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.52,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 1.99,
+      "pressao": 4.02,
+      "velocidade": 1160.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.34,
+    "medicoes": {
+      "temperatura": 69.7,
+      "vibracao": 2.29,
+      "pressao": 4.4,
+      "velocidade": 1199.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.72,
+    "medicoes": {
+      "temperatura": 60.7,
+      "vibracao": 1.92,
+      "pressao": 4.37,
+      "velocidade": 1082.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "OPERANDO",
+    "consumo_energia": 12.85,
+    "medicoes": {
+      "temperatura": 70.2,
+      "vibracao": 2.52,
+      "pressao": 4.51,
+      "velocidade": 1228.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.63,
+    "medicoes": {
+      "temperatura": 69.3,
+      "vibracao": 2.6,
+      "pressao": 5.41,
+      "velocidade": 1194.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.94,
+    "medicoes": {
+      "temperatura": 71.9,
+      "vibracao": 2.24,
+      "pressao": 4.66,
+      "velocidade": 1120.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.22,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 2.81,
+      "pressao": 5.46,
+      "velocidade": 1156.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 16.71,
+    "medicoes": {
+      "temperatura": 87.6,
+      "vibracao": 6.78,
+      "pressao": 5.05,
+      "velocidade": 1344.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.65,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 2.18,
+      "pressao": 4.78,
+      "velocidade": 1360.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.12,
+    "medicoes": {
+      "temperatura": 63.9,
+      "vibracao": 2.45,
+      "pressao": 4.23,
+      "velocidade": 1189.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.71,
+    "medicoes": {
+      "temperatura": 63.6,
+      "vibracao": 2.28,
+      "pressao": 4.28,
+      "velocidade": 1246.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.66,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.17,
+      "pressao": 5.4,
+      "velocidade": 1100.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.49,
+    "medicoes": {
+      "temperatura": 60.8,
+      "vibracao": 2.25,
+      "pressao": 5.08,
+      "velocidade": 1144.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.27,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 1.53,
+      "pressao": 4.34,
+      "velocidade": 1206.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.43,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 1.85,
+      "pressao": 5.11,
+      "velocidade": 1206.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.27,
+    "medicoes": {
+      "temperatura": 69.5,
+      "vibracao": 2.09,
+      "pressao": 4.61,
+      "velocidade": 1258.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.42,
+    "medicoes": {
+      "temperatura": 66.3,
+      "vibracao": 2.56,
+      "pressao": 4.74,
+      "velocidade": 1252.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.28,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 2.24,
+      "pressao": 5.2,
+      "velocidade": 1193.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.7,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 1.2,
+      "pressao": 3.81,
+      "velocidade": 1172.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.58,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 2.18,
+      "pressao": 6.01,
+      "velocidade": 1217.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.58,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 1.72,
+      "pressao": 5.03,
+      "velocidade": 1207.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.56,
+    "medicoes": {
+      "temperatura": 71.8,
+      "vibracao": 2.22,
+      "pressao": 4.87,
+      "velocidade": 1173.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.29,
+    "medicoes": {
+      "temperatura": 63.9,
+      "vibracao": 2.58,
+      "pressao": 5.25,
+      "velocidade": 1203.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.2,
+    "medicoes": {
+      "temperatura": 69.6,
+      "vibracao": 2.28,
+      "pressao": 5.46,
+      "velocidade": 1243.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.09,
+    "medicoes": {
+      "temperatura": 66.7,
+      "vibracao": 2.5,
+      "pressao": 5.31,
+      "velocidade": 1108.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.55,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 1.98,
+      "pressao": 5.51,
+      "velocidade": 1134.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.94,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.18,
+      "pressao": 4.69,
+      "velocidade": 1248.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.52,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.0,
+      "pressao": 5.39,
+      "velocidade": 1310.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 15.03,
+    "medicoes": {
+      "temperatura": 67.8,
+      "vibracao": 2.73,
+      "pressao": 5.31,
+      "velocidade": 1285.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.27,
+    "medicoes": {
+      "temperatura": 61.8,
+      "vibracao": 1.87,
+      "pressao": 4.37,
+      "velocidade": 1162.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.4,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 2.26,
+      "pressao": 4.82,
+      "velocidade": 1180.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.08,
+    "medicoes": {
+      "temperatura": 60.2,
+      "vibracao": 2.06,
+      "pressao": 4.48,
+      "velocidade": 1305.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.68,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 2.42,
+      "pressao": 4.26,
+      "velocidade": 1211.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.88,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 2.09,
+      "pressao": 5.36,
+      "velocidade": 1268.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.4,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 1.97,
+      "pressao": 4.24,
+      "velocidade": 1219.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.44,
+    "medicoes": {
+      "temperatura": 62.3,
+      "vibracao": 1.93,
+      "pressao": 4.82,
+      "velocidade": 1243.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.74,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 1.82,
+      "pressao": 5.16,
+      "velocidade": 1299.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.49,
+    "medicoes": {
+      "temperatura": 60.1,
+      "vibracao": 1.8,
+      "pressao": 5.47,
+      "velocidade": 1149.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.78,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 1.87,
+      "pressao": 5.75,
+      "velocidade": 1299.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.81,
+    "medicoes": {
+      "temperatura": 72.0,
+      "vibracao": 1.79,
+      "pressao": 4.65,
+      "velocidade": 1160.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.16,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 2.78,
+      "pressao": 4.97,
+      "velocidade": 1236.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.91,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 1.62,
+      "pressao": 4.58,
+      "velocidade": 1251.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.31,
+    "medicoes": {
+      "temperatura": 72.1,
+      "vibracao": 2.06,
+      "pressao": 5.14,
+      "velocidade": 1146.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.53,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 1.74,
+      "pressao": 5.26,
+      "velocidade": 1174.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.17,
+    "medicoes": {
+      "temperatura": 60.1,
+      "vibracao": 1.99,
+      "pressao": 4.3,
+      "velocidade": 1205.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-19T12:00:00",
+    "status": "operando",
+    "consumo_energia": 9.48,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 1.84,
+      "pressao": 4.38,
+      "velocidade": 1092.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.83,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 2.64,
+      "pressao": 5.97,
+      "velocidade": 1312.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.03,
+    "medicoes": {
+      "temperatura": 68.5,
+      "vibracao": 2.05,
+      "pressao": 4.04,
+      "velocidade": 1188.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.55,
+    "medicoes": {
+      "temperatura": 62.6,
+      "vibracao": 1.57,
+      "pressao": 4.93,
+      "velocidade": 1187.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.04,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 1.75,
+      "pressao": 5.37,
+      "velocidade": 1209.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.71,
+    "medicoes": {
+      "temperatura": 59.6,
+      "vibracao": 2.88,
+      "pressao": 4.57,
+      "velocidade": 1325.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.76,
+    "medicoes": {
+      "temperatura": 65.6,
+      "vibracao": 2.35,
+      "pressao": 5.91,
+      "velocidade": 1193.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.3,
+    "medicoes": {
+      "temperatura": 71.3,
+      "vibracao": 1.99,
+      "pressao": 4.99,
+      "velocidade": 1208.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.17,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 1.47,
+      "pressao": 5.59,
+      "velocidade": 1326.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.35,
+    "medicoes": {
+      "temperatura": 61.7,
+      "vibracao": 2.64,
+      "pressao": 5.22,
+      "velocidade": 1143.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.95,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 2.53,
+      "pressao": 4.49,
+      "velocidade": 1070.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.7,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 1.99,
+      "pressao": 5.15,
+      "velocidade": 1260.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.11,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.69,
+      "pressao": 4.47,
+      "velocidade": 1130.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.48,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 2.43,
+      "pressao": 5.93,
+      "velocidade": 1113.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.19,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 2.85,
+      "pressao": 4.23,
+      "velocidade": 1221.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.34,
+    "medicoes": {
+      "temperatura": 68.7,
+      "vibracao": 2.27,
+      "pressao": 5.63,
+      "velocidade": 1231.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.73,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 1.8,
+      "pressao": 4.45,
+      "velocidade": 1300.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-25T12:00:00",
+    "status": "operando",
+    "consumo_energia": 10.46,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 1.77,
+      "pressao": 4.32,
+      "velocidade": 1065.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-07T12:00:00",
+    "status": "operando",
+    "consumo_energia": 7.45,
+    "medicoes": {
+      "temperatura": 65.2,
+      "vibracao": 2.22,
+      "pressao": 4.35,
+      "velocidade": 1130.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.21,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.81,
+      "pressao": 4.75,
+      "velocidade": 1176.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.17,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 1.94,
+      "pressao": 4.54,
+      "velocidade": 1207.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.83,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 1.84,
+      "pressao": 4.59,
+      "velocidade": 1156.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.7,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 1.56,
+      "pressao": 5.39,
+      "velocidade": 1284.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.87,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.54,
+      "pressao": 5.61,
+      "velocidade": 1297.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.49,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 2.33,
+      "pressao": 5.4,
+      "velocidade": 1234.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.3,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 2.65,
+      "pressao": 5.54,
+      "velocidade": 1095.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.24,
+    "medicoes": {
+      "temperatura": 64.4,
+      "vibracao": 2.51,
+      "pressao": 5.51,
+      "velocidade": 1297.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.45,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 2.14,
+      "pressao": 5.4,
+      "velocidade": 1230.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.0,
+    "medicoes": {
+      "temperatura": 69.8,
+      "vibracao": 2.67,
+      "pressao": 5.28,
+      "velocidade": 1187.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.87,
+    "medicoes": {
+      "temperatura": 69.5,
+      "vibracao": 1.78,
+      "pressao": -4.4,
+      "velocidade": 1269.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.02,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.57,
+      "pressao": 4.12,
+      "velocidade": 1291.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.8,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 1.99,
+      "pressao": 4.73,
+      "velocidade": 1156.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.26,
+    "medicoes": {
+      "temperatura": 61.1,
+      "vibracao": 2.16,
+      "pressao": 5.17,
+      "velocidade": 1185.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.72,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.2,
+      "pressao": 5.13,
+      "velocidade": 1196.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.07,
+    "medicoes": {
+      "temperatura": 87.7,
+      "vibracao": 5.95,
+      "pressao": 5.26,
+      "velocidade": 1053.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.86,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 2.71,
+      "pressao": 5.11,
+      "velocidade": 1299.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.26,
+    "medicoes": {
+      "temperatura": 61.5,
+      "vibracao": 2.22,
+      "pressao": 5.25,
+      "velocidade": 1276.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.83,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.9,
+      "pressao": 4.86,
+      "velocidade": 1234.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.8,
+    "medicoes": {
+      "temperatura": 64.6,
+      "vibracao": 2.37,
+      "pressao": 5.19,
+      "velocidade": 1134.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.0,
+    "medicoes": {
+      "temperatura": 72.3,
+      "vibracao": 2.58,
+      "pressao": 5.24,
+      "velocidade": 1241.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.7,
+    "medicoes": {
+      "temperatura": 73.8,
+      "vibracao": 1.44,
+      "pressao": 4.72,
+      "velocidade": 1193.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.16,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 2.27,
+      "pressao": 5.27,
+      "velocidade": 1205.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.21,
+    "medicoes": {
+      "temperatura": 63.9,
+      "vibracao": 1.75,
+      "pressao": 4.49,
+      "velocidade": 1230.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.48,
+    "medicoes": {
+      "temperatura": 58.9,
+      "vibracao": 2.2,
+      "pressao": 4.67,
+      "velocidade": 1064.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.24,
+    "medicoes": {
+      "temperatura": 61.8,
+      "vibracao": 2.35,
+      "pressao": 5.16,
+      "velocidade": 1192.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.94,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 1.93,
+      "pressao": 5.43,
+      "velocidade": 1187.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.94,
+    "medicoes": {
+      "temperatura": 65.2,
+      "vibracao": 2.89,
+      "pressao": 5.25,
+      "velocidade": 1189.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.9,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 1.91,
+      "pressao": 5.0,
+      "velocidade": 1210.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.71,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 1.44,
+      "pressao": 5.09,
+      "velocidade": 1282.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.25,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 2.4,
+      "pressao": 5.65,
+      "velocidade": 1154.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.49,
+    "medicoes": {
+      "temperatura": 63.1,
+      "vibracao": 2.41,
+      "pressao": 5.81,
+      "velocidade": 1325.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.38,
+    "medicoes": {
+      "temperatura": 56.8,
+      "vibracao": 2.27,
+      "pressao": 4.41,
+      "velocidade": 1325.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.24,
+    "medicoes": {
+      "temperatura": 64.9,
+      "vibracao": 1.99,
+      "pressao": 4.43,
+      "velocidade": 1175.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.74,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 2.06,
+      "pressao": 5.75,
+      "velocidade": 1161.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.38,
+    "medicoes": {
+      "temperatura": 64.5,
+      "vibracao": 1.73,
+      "pressao": 4.99,
+      "velocidade": 1231.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.66,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 1.93,
+      "pressao": 4.92,
+      "velocidade": 1275.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.1,
+    "medicoes": {
+      "temperatura": 67.7,
+      "vibracao": 1.89,
+      "pressao": 4.99,
+      "velocidade": 1147.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.55,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 1.87,
+      "pressao": 4.99,
+      "velocidade": 1068.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.51,
+    "medicoes": {
+      "temperatura": 64.7,
+      "vibracao": 2.13,
+      "pressao": 5.02,
+      "velocidade": 1145.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.28,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.01,
+      "pressao": 4.29,
+      "velocidade": 1260.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.12,
+    "medicoes": {
+      "temperatura": 67.9,
+      "vibracao": 3.12,
+      "pressao": 5.54,
+      "velocidade": 1048.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.43,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 2.28,
+      "pressao": 4.55,
+      "velocidade": 1279.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.34,
+    "medicoes": {
+      "temperatura": 64.4,
+      "vibracao": 2.33,
+      "pressao": 5.09,
+      "velocidade": 1071.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.62,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.63,
+      "pressao": 4.92,
+      "velocidade": 1243.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.87,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.27,
+      "pressao": 5.24,
+      "velocidade": 1310.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.11,
+    "medicoes": {
+      "temperatura": 63.5,
+      "vibracao": 2.01,
+      "pressao": 5.48,
+      "velocidade": 1283.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.35,
+    "medicoes": {
+      "temperatura": 68.4,
+      "vibracao": 2.4,
+      "pressao": 4.51,
+      "velocidade": 1445.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.97,
+    "medicoes": {
+      "temperatura": 60.0,
+      "vibracao": 2.75,
+      "pressao": 5.39,
+      "velocidade": 1232.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.65,
+    "medicoes": {
+      "temperatura": 68.9,
+      "vibracao": 2.33,
+      "pressao": 5.82,
+      "velocidade": 1340.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.08,
+    "medicoes": {
+      "temperatura": 65.1,
+      "vibracao": 2.55,
+      "pressao": 4.67,
+      "velocidade": 1200.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.61,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.39,
+      "pressao": 4.99,
+      "velocidade": 1154.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.36,
+    "medicoes": {
+      "temperatura": 68.4,
+      "vibracao": 2.94,
+      "pressao": 4.63,
+      "velocidade": 1124.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.5,
+    "medicoes": {
+      "temperatura": 65.1,
+      "vibracao": 1.54,
+      "pressao": 5.6,
+      "velocidade": 1131.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.98,
+    "medicoes": {
+      "temperatura": 58.9,
+      "vibracao": 2.9,
+      "pressao": 5.03,
+      "velocidade": 1246.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.33,
+    "medicoes": {
+      "temperatura": 63.5,
+      "vibracao": 2.36,
+      "pressao": 4.9,
+      "velocidade": 1311.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.8,
+    "medicoes": {
+      "temperatura": 58.5,
+      "vibracao": 1.97,
+      "pressao": 5.4,
+      "velocidade": 1214.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.68,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 2.53,
+      "pressao": 5.07,
+      "velocidade": 1235.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.17,
+    "medicoes": {
+      "temperatura": 64.4,
+      "vibracao": 1.96,
+      "pressao": 4.63,
+      "velocidade": 1144.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.89,
+    "medicoes": {
+      "temperatura": 69.5,
+      "vibracao": 2.17,
+      "pressao": 4.77,
+      "velocidade": 1270.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.2,
+    "medicoes": {
+      "temperatura": 69.6,
+      "vibracao": 1.99,
+      "pressao": 4.55,
+      "velocidade": 1145.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.9,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 2.24,
+      "pressao": 4.24,
+      "velocidade": 1086.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.05,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 1.98,
+      "pressao": 5.05,
+      "velocidade": 1189.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.69,
+    "medicoes": {
+      "temperatura": 58.9,
+      "vibracao": 2.21,
+      "pressao": 5.11,
+      "velocidade": 1184.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.6,
+    "medicoes": {
+      "temperatura": 65.6,
+      "vibracao": 2.68,
+      "pressao": 5.19,
+      "velocidade": 1177.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.53,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 2.86,
+      "pressao": 4.44,
+      "velocidade": 1392.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.98,
+    "medicoes": {
+      "temperatura": 69.7,
+      "vibracao": 2.66,
+      "pressao": 4.94,
+      "velocidade": 1220.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.75,
+    "medicoes": {
+      "temperatura": 70.2,
+      "vibracao": 2.51,
+      "pressao": 4.75,
+      "velocidade": 1086.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.66,
+    "medicoes": {
+      "temperatura": 62.7,
+      "vibracao": 2.34,
+      "pressao": 5.06,
+      "velocidade": 1121.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.73,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 2.53,
+      "pressao": 4.79,
+      "velocidade": 1178.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.15,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 2.49,
+      "pressao": 5.38,
+      "velocidade": 1124.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.03,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 3.07,
+      "pressao": 4.49,
+      "velocidade": 1139.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.21,
+    "medicoes": {
+      "temperatura": 73.7,
+      "vibracao": 2.05,
+      "pressao": 5.1,
+      "velocidade": 1117.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.73,
+    "medicoes": {
+      "temperatura": 61.5,
+      "vibracao": 2.22,
+      "pressao": 4.87,
+      "velocidade": 1193.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.9,
+    "medicoes": {
+      "temperatura": 63.5,
+      "vibracao": 2.38,
+      "pressao": 5.01,
+      "velocidade": 1256.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.42,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 1.85,
+      "pressao": 5.85,
+      "velocidade": 1175.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.08,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 2.45,
+      "pressao": 4.73,
+      "velocidade": 1041.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.25,
+    "medicoes": {
+      "temperatura": 68.5,
+      "vibracao": 2.44,
+      "pressao": 5.66,
+      "velocidade": 1099.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.88,
+    "medicoes": {
+      "temperatura": 62.0,
+      "vibracao": 2.28,
+      "pressao": 4.93,
+      "velocidade": 1129.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.03,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 2.29,
+      "pressao": 4.47,
+      "velocidade": 1106.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.02,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 2.48,
+      "pressao": 5.8,
+      "velocidade": 1194.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.07,
+    "medicoes": {
+      "temperatura": 66.2,
+      "vibracao": 2.92,
+      "pressao": 5.18,
+      "velocidade": 1175.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.53,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.32,
+      "pressao": 4.97,
+      "velocidade": 1238.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.22,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 1.5,
+      "pressao": 4.03,
+      "velocidade": 1246.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.02,
+    "medicoes": {
+      "temperatura": 54.4,
+      "vibracao": 2.51,
+      "pressao": 3.8,
+      "velocidade": 1193.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.14,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 2.66,
+      "pressao": 4.62,
+      "velocidade": 1084.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.59,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 2.94,
+      "pressao": 5.11,
+      "velocidade": 1212.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.15,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 1.7,
+      "pressao": 4.82,
+      "velocidade": 1414.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.45,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 2.36,
+      "pressao": 5.71,
+      "velocidade": 1226.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.71,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 1.62,
+      "pressao": 5.16,
+      "velocidade": 1296.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.18,
+    "medicoes": {
+      "temperatura": 58.8,
+      "vibracao": 2.25,
+      "pressao": 4.7,
+      "velocidade": 1218.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.5,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 4.5,
+      "pressao": 4.88,
+      "velocidade": 1293.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.4,
+    "medicoes": {
+      "temperatura": 66.6,
+      "vibracao": 1.79,
+      "pressao": 4.4,
+      "velocidade": 1229.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.21,
+    "medicoes": {
+      "temperatura": 61.1,
+      "vibracao": 2.26,
+      "pressao": 4.15,
+      "velocidade": 1017.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.99,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 2.23,
+      "pressao": 5.44,
+      "velocidade": 1122.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.23,
+    "medicoes": {
+      "temperatura": 63.5,
+      "vibracao": 2.06,
+      "pressao": 4.4,
+      "velocidade": 1176.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-10T12:00:00",
+    "status": "operando",
+    "consumo_energia": 8.52,
+    "medicoes": {
+      "temperatura": 57.0,
+      "vibracao": 2.35,
+      "pressao": 3.84,
+      "velocidade": 1082.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.68,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 1.32,
+      "pressao": 4.89,
+      "velocidade": 1034.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.85,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 1.9,
+      "pressao": 4.99,
+      "velocidade": 1072.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.37,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 1.63,
+      "pressao": 5.62,
+      "velocidade": 1026.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.42,
+    "medicoes": {
+      "temperatura": 67.1,
+      "vibracao": 1.87,
+      "pressao": 5.1,
+      "velocidade": 1205.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-22T12:00:00",
+    "status": "operando",
+    "consumo_energia": 9.74,
+    "medicoes": {
+      "temperatura": 60.1,
+      "vibracao": 1.49,
+      "pressao": 4.01,
+      "velocidade": 1010.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.35,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.01,
+      "pressao": 4.95,
+      "velocidade": 1232.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.7,
+    "medicoes": {
+      "temperatura": 64.6,
+      "vibracao": 2.4,
+      "pressao": 4.81,
+      "velocidade": 1233.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.22,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 2.14,
+      "pressao": 5.69,
+      "velocidade": 1291.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.23,
+    "medicoes": {
+      "temperatura": 58.7,
+      "vibracao": 1.66,
+      "pressao": 4.2,
+      "velocidade": 1219.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.69,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 2.37,
+      "pressao": 5.75,
+      "velocidade": 1293.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.12,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 1.83,
+      "pressao": 5.32,
+      "velocidade": 1298.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.22,
+    "medicoes": {
+      "temperatura": 57.5,
+      "vibracao": 2.29,
+      "pressao": 5.86,
+      "velocidade": 1195.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.38,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 1.93,
+      "pressao": 4.75,
+      "velocidade": 1001.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.56,
+    "medicoes": {
+      "temperatura": 67.5,
+      "vibracao": 2.02,
+      "pressao": 5.51,
+      "velocidade": 1413.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.24,
+    "medicoes": {
+      "temperatura": 63.3,
+      "vibracao": 1.55,
+      "pressao": 4.64,
+      "velocidade": 1212.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.07,
+    "medicoes": {
+      "temperatura": 62.7,
+      "vibracao": 2.12,
+      "pressao": 4.62,
+      "velocidade": 1202.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.89,
+    "medicoes": {
+      "temperatura": 65.5,
+      "vibracao": 1.73,
+      "pressao": 4.75,
+      "velocidade": 1336.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.27,
+    "medicoes": {
+      "temperatura": 63.9,
+      "vibracao": 2.77,
+      "pressao": 5.26,
+      "velocidade": 1239.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.85,
+    "medicoes": {
+      "temperatura": 67.8,
+      "vibracao": 2.67,
+      "pressao": 5.29,
+      "velocidade": 1236.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.2,
+    "medicoes": {
+      "temperatura": 70.0,
+      "vibracao": 2.16,
+      "pressao": 5.61,
+      "velocidade": 1203.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.1,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 1.99,
+      "pressao": 4.93,
+      "velocidade": 1037.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.37,
+    "medicoes": {
+      "temperatura": 61.8,
+      "vibracao": 2.74,
+      "pressao": 4.56,
+      "velocidade": 1245.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.17,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 1.79,
+      "pressao": 5.47,
+      "velocidade": 1180.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.54,
+    "medicoes": {
+      "temperatura": 66.9,
+      "vibracao": 2.57,
+      "pressao": 4.51,
+      "velocidade": 1312.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.24,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 1.66,
+      "pressao": 4.72,
+      "velocidade": 1256.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.28,
+    "medicoes": {
+      "temperatura": 70.1,
+      "vibracao": 2.96,
+      "pressao": 4.77,
+      "velocidade": 1196.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.6,
+    "medicoes": {
+      "temperatura": 67.6,
+      "vibracao": 1.36,
+      "pressao": 5.43,
+      "velocidade": 1128.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.33,
+    "medicoes": {
+      "temperatura": 71.5,
+      "vibracao": 2.21,
+      "pressao": 4.27,
+      "velocidade": 1145.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.69,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 2.76,
+      "pressao": 5.06,
+      "velocidade": 1136.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.57,
+    "medicoes": {
+      "temperatura": 60.9,
+      "vibracao": 2.48,
+      "pressao": 4.24,
+      "velocidade": 1249.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.16,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 1.44,
+      "pressao": 5.2,
+      "velocidade": 1321.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.96,
+    "medicoes": {
+      "temperatura": 70.4,
+      "vibracao": 2.61,
+      "pressao": 5.97,
+      "velocidade": 1087.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.21,
+    "medicoes": {
+      "temperatura": 71.1,
+      "vibracao": 2.25,
+      "pressao": 4.71,
+      "velocidade": 1181.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.62,
+    "medicoes": {
+      "temperatura": 69.1,
+      "vibracao": 2.21,
+      "pressao": 4.21,
+      "velocidade": 1228.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.09,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 2.66,
+      "pressao": 4.85,
+      "velocidade": 1295.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 16.41,
+    "medicoes": {
+      "temperatura": 66.8,
+      "vibracao": 2.15,
+      "pressao": 5.54,
+      "velocidade": 1031.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.23,
+    "medicoes": {
+      "temperatura": 66.3,
+      "vibracao": 2.89,
+      "pressao": 5.35,
+      "velocidade": 1282.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.98,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.67,
+      "pressao": 5.13,
+      "velocidade": 1251.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.47,
+    "medicoes": {
+      "temperatura": 58.3,
+      "vibracao": 2.48,
+      "pressao": 3.72,
+      "velocidade": 1141.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.41,
+    "medicoes": {
+      "temperatura": 72.2,
+      "vibracao": 2.29,
+      "pressao": 4.6,
+      "velocidade": 1247.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.78,
+    "medicoes": {
+      "temperatura": 67.3,
+      "vibracao": 2.17,
+      "pressao": 5.23,
+      "velocidade": 1165.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.19,
+    "medicoes": {
+      "temperatura": 66.3,
+      "vibracao": 1.53,
+      "pressao": 4.12,
+      "velocidade": 1130.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.49,
+    "medicoes": {
+      "temperatura": 60.4,
+      "vibracao": 2.15,
+      "pressao": 5.32,
+      "velocidade": 1101.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.76,
+    "medicoes": {
+      "temperatura": 66.3,
+      "vibracao": 2.08,
+      "pressao": 4.17,
+      "velocidade": 1196.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.81,
+    "medicoes": {
+      "temperatura": 53.4,
+      "vibracao": 2.32,
+      "pressao": 5.14,
+      "velocidade": 1136.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.86,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.05,
+      "pressao": 5.14,
+      "velocidade": 1096.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.71,
+    "medicoes": {
+      "temperatura": 61.5,
+      "vibracao": 1.29,
+      "pressao": 5.14,
+      "velocidade": 1216.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.72,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 2.02,
+      "pressao": 5.14,
+      "velocidade": 1136.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.56,
+    "medicoes": {
+      "temperatura": 64.4,
+      "vibracao": 1.91,
+      "pressao": 5.56,
+      "velocidade": 1105.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.55,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 2.11,
+      "pressao": 5.1,
+      "velocidade": 1397.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.02,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 2.1,
+      "pressao": 5.41,
+      "velocidade": 1197.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.96,
+    "medicoes": {
+      "temperatura": 60.9,
+      "vibracao": 2.18,
+      "pressao": 5.19,
+      "velocidade": 1139.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.6,
+    "medicoes": {
+      "temperatura": 59.6,
+      "vibracao": 2.47,
+      "pressao": 5.34,
+      "velocidade": 1018.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.05,
+    "medicoes": {
+      "temperatura": 61.9,
+      "vibracao": 2.55,
+      "pressao": 4.69,
+      "velocidade": 1187.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-10T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.81,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 2.35,
+      "pressao": 5.68,
+      "velocidade": 1295.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-20T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.09,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 1.63,
+      "pressao": 5.55,
+      "velocidade": 1134.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.26,
+    "medicoes": {
+      "temperatura": 61.4,
+      "vibracao": 1.68,
+      "pressao": 5.25,
+      "velocidade": 1172.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.23,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 1.96,
+      "pressao": 5.9,
+      "velocidade": 1082.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.25,
+    "medicoes": {
+      "temperatura": 61.7,
+      "vibracao": 1.8,
+      "pressao": 4.86,
+      "velocidade": 1309.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.8,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 1.95,
+      "pressao": 4.94,
+      "velocidade": 1227.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-28T12:00:00",
+    "status": "operando",
+    "consumo_energia": 10.09,
+    "medicoes": {
+      "temperatura": 65.7,
+      "vibracao": 1.62,
+      "pressao": 4.96,
+      "velocidade": 1101.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.5,
+    "medicoes": {
+      "temperatura": 66.8,
+      "vibracao": 1.36,
+      "pressao": 5.71,
+      "velocidade": 1307.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.27,
+    "medicoes": {
+      "temperatura": 71.7,
+      "vibracao": 1.9,
+      "pressao": 5.58,
+      "velocidade": 1154.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.48,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 1.31,
+      "pressao": 5.12,
+      "velocidade": 1107.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.46,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 2.08,
+      "pressao": 5.71,
+      "velocidade": 1167.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.54,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.11,
+      "pressao": 4.58,
+      "velocidade": 1126.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.33,
+    "medicoes": {
+      "temperatura": 72.3,
+      "vibracao": 1.87,
+      "pressao": 5.12,
+      "velocidade": 1137.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.82,
+    "medicoes": {
+      "temperatura": 63.3,
+      "vibracao": 2.22,
+      "pressao": 4.92,
+      "velocidade": 1087.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.69,
+    "medicoes": {
+      "temperatura": 68.4,
+      "vibracao": 2.66,
+      "pressao": 5.28,
+      "velocidade": 1170.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.1,
+    "medicoes": {
+      "temperatura": 66.7,
+      "vibracao": 2.56,
+      "pressao": 5.45,
+      "velocidade": 1217.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.73,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 1.65,
+      "pressao": 4.07,
+      "velocidade": 1266.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.21,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 2.38,
+      "pressao": 4.71,
+      "velocidade": 1200.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.19,
+    "medicoes": {
+      "temperatura": 63.0,
+      "vibracao": 2.13,
+      "pressao": 4.81,
+      "velocidade": 1106.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.44,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 1.83,
+      "pressao": 3.99,
+      "velocidade": 1264.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": " operando ",
+    "consumo_energia": 12.63,
+    "medicoes": {
+      "temperatura": 66.9,
+      "vibracao": 2.3,
+      "pressao": 5.15,
+      "velocidade": 1274.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.71,
+    "medicoes": {
+      "temperatura": 57.2,
+      "vibracao": 2.49,
+      "pressao": 5.43,
+      "velocidade": 1303.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.74,
+    "medicoes": {
+      "temperatura": 68.3,
+      "vibracao": 2.43,
+      "pressao": 5.02,
+      "velocidade": 1080.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.59,
+    "medicoes": {
+      "temperatura": 69.4,
+      "vibracao": 2.3,
+      "pressao": 4.97,
+      "velocidade": 1185.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.72,
+    "medicoes": {
+      "temperatura": 70.7,
+      "vibracao": 2.47,
+      "pressao": 5.08,
+      "velocidade": 1337.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.31,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 1.51,
+      "pressao": 4.88,
+      "velocidade": 1063.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-21T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.01,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.32,
+      "pressao": 4.67,
+      "velocidade": 1185.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 15.66,
+    "medicoes": {
+      "temperatura": 72.1,
+      "vibracao": 2.46,
+      "pressao": 5.41,
+      "velocidade": 1179.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.09,
+    "medicoes": {
+      "temperatura": 68.6,
+      "vibracao": 2.98,
+      "pressao": 5.56,
+      "velocidade": 1164.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.07,
+    "medicoes": {
+      "temperatura": 72.2,
+      "vibracao": 2.45,
+      "pressao": 5.16,
+      "velocidade": 1272.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.24,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 1.75,
+      "pressao": 5.17,
+      "velocidade": 1170.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.99,
+    "medicoes": {
+      "temperatura": 63.1,
+      "vibracao": 2.07,
+      "pressao": 5.11,
+      "velocidade": 1186.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "OPERANDO",
+    "consumo_energia": 11.37,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.59,
+      "pressao": 5.8,
+      "velocidade": 1140.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.96,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.24,
+      "pressao": 5.04,
+      "velocidade": 1307.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.6,
+    "medicoes": {
+      "temperatura": 56.2,
+      "vibracao": 2.64,
+      "pressao": 5.08,
+      "velocidade": 1200.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.94,
+    "medicoes": {
+      "temperatura": 64.5,
+      "vibracao": 2.6,
+      "pressao": 6.17,
+      "velocidade": 1215.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-01T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.8,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 1.58,
+      "pressao": 4.8,
+      "velocidade": 1240.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.51,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 2.84,
+      "pressao": 5.6,
+      "velocidade": 1222.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.28,
+    "medicoes": {
+      "temperatura": 68.2,
+      "vibracao": 1.89,
+      "pressao": 4.78,
+      "velocidade": 1182.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.05,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.23,
+      "pressao": 4.77,
+      "velocidade": 1141.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-29T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.28,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 2.06,
+      "pressao": 4.55,
+      "velocidade": 1195.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.33,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 2.21,
+      "pressao": 4.87,
+      "velocidade": 1195.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-06T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.84,
+    "medicoes": {
+      "temperatura": 58.3,
+      "vibracao": 2.33,
+      "pressao": 5.0,
+      "velocidade": 1233.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.76,
+    "medicoes": {
+      "temperatura": 68.7,
+      "vibracao": 2.93,
+      "pressao": 4.67,
+      "velocidade": 1165.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.33,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 2.67,
+      "pressao": 4.57,
+      "velocidade": 1015.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.07,
+    "medicoes": {
+      "temperatura": 58.5,
+      "vibracao": 1.99,
+      "pressao": 5.11,
+      "velocidade": 1267.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.74,
+    "medicoes": {
+      "temperatura": 63.1,
+      "vibracao": 2.46,
+      "pressao": 4.65,
+      "velocidade": 1210.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.69,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 5.01,
+      "pressao": 4.43,
+      "velocidade": 1169.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.07,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 1.66,
+      "pressao": 5.29,
+      "velocidade": 1257.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.13,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.53,
+      "pressao": 4.26,
+      "velocidade": 1202.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-01T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.96,
+    "medicoes": {
+      "temperatura": 63.6,
+      "vibracao": 2.3,
+      "pressao": 5.09,
+      "velocidade": 1173.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.24,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 2.28,
+      "pressao": 5.35,
+      "velocidade": 1083.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.59,
+    "medicoes": {
+      "temperatura": 51.7,
+      "vibracao": 1.61,
+      "pressao": 4.79,
+      "velocidade": 1282.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.2,
+    "medicoes": {
+      "temperatura": 67.0,
+      "vibracao": 1.78,
+      "pressao": 5.64,
+      "velocidade": 1179.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.51,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 2.13,
+      "pressao": 4.63,
+      "velocidade": 1136.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.41,
+    "medicoes": {
+      "temperatura": 66.4,
+      "vibracao": 2.85,
+      "pressao": 4.75,
+      "velocidade": 1176.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.22,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.74,
+      "pressao": 5.34,
+      "velocidade": 1188.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.59,
+    "medicoes": {
+      "temperatura": 68.6,
+      "vibracao": 2.51,
+      "pressao": 5.18,
+      "velocidade": 1112.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.44,
+    "medicoes": {
+      "temperatura": 72.9,
+      "vibracao": 2.42,
+      "pressao": 6.32,
+      "velocidade": 1135.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.9,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.17,
+      "pressao": 4.57,
+      "velocidade": 1298.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.52,
+    "medicoes": {
+      "temperatura": 69.3,
+      "vibracao": 2.62,
+      "pressao": 5.0,
+      "velocidade": 1096.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.15,
+    "medicoes": {
+      "temperatura": 65.9,
+      "vibracao": 2.92,
+      "pressao": 5.19,
+      "velocidade": 1238.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.51,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 1.94,
+      "pressao": 5.85,
+      "velocidade": 1111.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.53,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.34,
+      "pressao": 5.72,
+      "velocidade": 1245.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.92,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 2.53,
+      "pressao": 4.79,
+      "velocidade": 1232.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.91,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 2.4,
+      "pressao": 4.54,
+      "velocidade": 1290.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.46,
+    "medicoes": {
+      "temperatura": 62.6,
+      "vibracao": 2.16,
+      "pressao": 5.04,
+      "velocidade": 1158.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.69,
+    "medicoes": {
+      "temperatura": 60.7,
+      "vibracao": 2.39,
+      "pressao": 5.36,
+      "velocidade": 1187.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.51,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.85,
+      "pressao": 4.61,
+      "velocidade": 1223.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.51,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.31,
+      "pressao": 5.12,
+      "velocidade": 1310.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.11,
+    "medicoes": {
+      "temperatura": 68.4,
+      "vibracao": 2.41,
+      "pressao": 5.36,
+      "velocidade": 1233.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-03T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.73,
+    "medicoes": {
+      "temperatura": 69.3,
+      "vibracao": 1.52,
+      "pressao": 4.8,
+      "velocidade": 1101.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-14T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.01,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 2.17,
+      "pressao": 5.99,
+      "velocidade": 1325.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.14,
+    "medicoes": {
+      "temperatura": 61.2,
+      "vibracao": 2.37,
+      "pressao": 5.05,
+      "velocidade": 1284.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.61,
+    "medicoes": {
+      "temperatura": 66.9,
+      "vibracao": 2.1,
+      "pressao": 4.99,
+      "velocidade": 1266.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.46,
+    "medicoes": {
+      "temperatura": 67.3,
+      "vibracao": 2.24,
+      "pressao": 4.21,
+      "velocidade": 1263.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.6,
+    "medicoes": {
+      "temperatura": 65.5,
+      "vibracao": 2.58,
+      "pressao": 4.9,
+      "velocidade": 1305.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.04,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 3.09,
+      "pressao": 5.0,
+      "velocidade": 1116.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.67,
+    "medicoes": {
+      "temperatura": 58.0,
+      "vibracao": 2.25,
+      "pressao": 4.24,
+      "velocidade": 1109.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-25T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.22,
+    "medicoes": {
+      "temperatura": 62.3,
+      "vibracao": 2.47,
+      "pressao": 3.81,
+      "velocidade": 1220.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.2,
+    "medicoes": {
+      "temperatura": 65.4,
+      "vibracao": 1.24,
+      "pressao": 4.96,
+      "velocidade": 1236.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.71,
+    "medicoes": {
+      "temperatura": 70.6,
+      "vibracao": 2.17,
+      "pressao": 4.71,
+      "velocidade": 1205.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.32,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.11,
+      "pressao": 5.48,
+      "velocidade": 1326.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.66,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 2.4,
+      "pressao": 5.21,
+      "velocidade": 1232.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-22T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.69,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 2.17,
+      "pressao": 5.44,
+      "velocidade": 1327.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.51,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 1.94,
+      "pressao": 4.67,
+      "velocidade": 1152.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.96,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 2.27,
+      "pressao": 4.76,
+      "velocidade": 1058.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-12T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.09,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 2.5,
+      "pressao": 5.19,
+      "velocidade": 1250.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.1,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.51,
+      "pressao": 5.56,
+      "velocidade": 1354.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.95,
+    "medicoes": {
+      "temperatura": 61.5,
+      "vibracao": 1.86,
+      "pressao": 4.93,
+      "velocidade": 1238.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.21,
+    "medicoes": {
+      "temperatura": 60.0,
+      "vibracao": 2.34,
+      "pressao": 4.29,
+      "velocidade": 1106.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.46,
+    "medicoes": {
+      "temperatura": 51.1,
+      "vibracao": 2.36,
+      "pressao": 4.34,
+      "velocidade": 1155.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.08,
+    "medicoes": {
+      "temperatura": 70.2,
+      "vibracao": 2.03,
+      "pressao": 5.13,
+      "velocidade": 1088.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": " operando ",
+    "consumo_energia": 11.91,
+    "medicoes": {
+      "temperatura": 59.9,
+      "vibracao": 1.81,
+      "pressao": 5.21,
+      "velocidade": 1144.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-03T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.74,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.6,
+      "pressao": 4.86,
+      "velocidade": 1198.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.75,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 4.78,
+      "pressao": 5.3,
+      "velocidade": 1421.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.53,
+    "medicoes": {
+      "temperatura": 69.6,
+      "vibracao": 2.33,
+      "pressao": 5.27,
+      "velocidade": 1123.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.95,
+    "medicoes": {
+      "temperatura": 67.2,
+      "vibracao": 1.87,
+      "pressao": 4.95,
+      "velocidade": 1160.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.91,
+    "medicoes": {
+      "temperatura": 63.6,
+      "vibracao": 2.4,
+      "pressao": 5.16,
+      "velocidade": 1197.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.53,
+    "medicoes": {
+      "temperatura": 69.0,
+      "vibracao": 2.0,
+      "pressao": 4.41,
+      "velocidade": 1296.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-18T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.21,
+    "medicoes": {
+      "temperatura": 68.2,
+      "vibracao": 2.09,
+      "pressao": 5.55,
+      "velocidade": 1251.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-24T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.29,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 2.72,
+      "pressao": 4.41,
+      "velocidade": 1307.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 18.47,
+    "medicoes": {
+      "temperatura": 102.2,
+      "vibracao": 6.85,
+      "pressao": 5.19,
+      "velocidade": 1152.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 15.67,
+    "medicoes": {
+      "temperatura": 73.0,
+      "vibracao": 1.89,
+      "pressao": 5.09,
+      "velocidade": 1240.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-17T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.95,
+    "medicoes": {
+      "temperatura": 59.8,
+      "vibracao": 1.71,
+      "pressao": 5.53,
+      "velocidade": 1275.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.45,
+    "medicoes": {
+      "temperatura": 62.7,
+      "vibracao": 2.04,
+      "pressao": 4.82,
+      "velocidade": 1143.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.51,
+    "medicoes": {
+      "temperatura": 66.1,
+      "vibracao": 3.23,
+      "pressao": 4.32,
+      "velocidade": 1088.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.46,
+    "medicoes": {
+      "temperatura": 63.4,
+      "vibracao": 1.73,
+      "pressao": 3.84,
+      "velocidade": 1243.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-22T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.84,
+    "medicoes": {
+      "temperatura": 69.5,
+      "vibracao": 2.47,
+      "pressao": 4.79,
+      "velocidade": 1264.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-25T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.79,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 2.49,
+      "pressao": 4.91,
+      "velocidade": 1186.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.56,
+    "medicoes": {
+      "temperatura": 59.0,
+      "vibracao": 1.74,
+      "pressao": 4.99,
+      "velocidade": 1141.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-16T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.62,
+    "medicoes": {
+      "temperatura": 60.9,
+      "vibracao": 1.9,
+      "pressao": 5.61,
+      "velocidade": 1265.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.32,
+    "medicoes": {
+      "temperatura": 68.0,
+      "vibracao": 1.75,
+      "pressao": 5.28,
+      "velocidade": 1159.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-05T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.08,
+    "medicoes": {
+      "temperatura": 58.3,
+      "vibracao": 1.83,
+      "pressao": 5.52,
+      "velocidade": 1245.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.41,
+    "medicoes": {
+      "temperatura": 68.5,
+      "vibracao": 2.5,
+      "pressao": 4.99,
+      "velocidade": 1186.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.67,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 2.07,
+      "pressao": 5.64,
+      "velocidade": 1287.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.02,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 2.12,
+      "pressao": 4.67,
+      "velocidade": 1176.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.62,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.42,
+      "pressao": 6.11,
+      "velocidade": 1220.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.58,
+    "medicoes": {
+      "temperatura": 65.8,
+      "vibracao": 2.6,
+      "pressao": 4.65,
+      "velocidade": 1260.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 8.69,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 2.23,
+      "pressao": 4.86,
+      "velocidade": 1315.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-13T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.79,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 2.56,
+      "pressao": 4.23,
+      "velocidade": 1081.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.83,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 2.03,
+      "pressao": 5.14,
+      "velocidade": 1143.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.98,
+    "medicoes": {
+      "temperatura": 67.7,
+      "vibracao": 1.72,
+      "pressao": 5.42,
+      "velocidade": 1221.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.44,
+    "medicoes": {
+      "temperatura": 62.4,
+      "vibracao": 2.41,
+      "pressao": 3.74,
+      "velocidade": 1205.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-12T19:00:00",
+    "status": "operando",
+    "consumo_energia": 9.4,
+    "medicoes": {
+      "temperatura": 64.3,
+      "vibracao": 2.69,
+      "pressao": 5.58,
+      "velocidade": 1294.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.31,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.63,
+      "pressao": 5.37,
+      "velocidade": 1315.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-01T12:00:00",
+    "status": "operando",
+    "consumo_energia": 7.63,
+    "medicoes": {
+      "temperatura": 56.2,
+      "vibracao": 0.98,
+      "pressao": 4.88,
+      "velocidade": 1100.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.12,
+    "medicoes": {
+      "temperatura": 60.6,
+      "vibracao": 2.43,
+      "pressao": 4.33,
+      "velocidade": 1393.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.97,
+    "medicoes": {
+      "temperatura": 61.7,
+      "vibracao": 3.09,
+      "pressao": 4.85,
+      "velocidade": 1210.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-16T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.1,
+    "medicoes": {
+      "temperatura": 58.7,
+      "vibracao": 2.75,
+      "pressao": 4.38,
+      "velocidade": 1143.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.5,
+    "medicoes": {
+      "temperatura": 60.1,
+      "vibracao": 2.38,
+      "pressao": 5.19,
+      "velocidade": 1203.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-28T19:00:00",
+    "status": "operando",
+    "consumo_energia": 16.31,
+    "medicoes": {
+      "temperatura": 87.8,
+      "vibracao": 5.35,
+      "pressao": 5.89,
+      "velocidade": 988.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.6,
+    "medicoes": {
+      "temperatura": 67.5,
+      "vibracao": 2.65,
+      "pressao": 6.48,
+      "velocidade": 1192.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-18T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.44,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.52,
+      "pressao": 4.99,
+      "velocidade": 1220.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.06,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 2.28,
+      "pressao": 5.66,
+      "velocidade": 1345.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-05T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.46,
+    "medicoes": {
+      "temperatura": 67.5,
+      "vibracao": 2.72,
+      "pressao": 4.87,
+      "velocidade": 1209.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-23T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.65,
+    "medicoes": {
+      "temperatura": 75.4,
+      "vibracao": 3.62,
+      "pressao": 4.54,
+      "velocidade": 1117.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-09T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.05,
+    "medicoes": {
+      "temperatura": 57.9,
+      "vibracao": 1.79,
+      "pressao": 5.12,
+      "velocidade": 1207.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.81,
+    "medicoes": {
+      "temperatura": 62.8,
+      "vibracao": 1.68,
+      "pressao": 5.24,
+      "velocidade": 1236.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-04T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.38,
+    "medicoes": {
+      "temperatura": 62.2,
+      "vibracao": 1.58,
+      "pressao": 4.86,
+      "velocidade": 1032.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.04,
+    "medicoes": {
+      "temperatura": 70.6,
+      "vibracao": 2.69,
+      "pressao": 5.14,
+      "velocidade": 1264.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.03,
+    "medicoes": {
+      "temperatura": 61.0,
+      "vibracao": 2.4,
+      "pressao": 5.03,
+      "velocidade": 1055.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-11T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.09,
+    "medicoes": {
+      "temperatura": 999.0,
+      "vibracao": 2.25,
+      "pressao": 5.51,
+      "velocidade": 1094.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-26T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.79,
+    "medicoes": {
+      "temperatura": 67.9,
+      "vibracao": 1.79,
+      "pressao": 5.31,
+      "velocidade": 1094.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-15T07:00:00",
+    "status": " operando ",
+    "consumo_energia": 12.96,
+    "medicoes": {
+      "temperatura": 59.8,
+      "vibracao": 2.83,
+      "pressao": 4.41,
+      "velocidade": 1267.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-11T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.72,
+    "medicoes": {
+      "temperatura": 67.4,
+      "vibracao": 3.12,
+      "pressao": 5.05,
+      "velocidade": 1191.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.38,
+    "medicoes": {
+      "temperatura": 65.6,
+      "vibracao": 1.93,
+      "pressao": 5.21,
+      "velocidade": 1366.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.03,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.6,
+      "pressao": 6.09,
+      "velocidade": 1096.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-14T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.89,
+    "medicoes": {
+      "temperatura": 65.9,
+      "vibracao": 2.75,
+      "pressao": 4.42,
+      "velocidade": 1205.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-07T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.34,
+    "medicoes": {
+      "temperatura": 66.0,
+      "vibracao": 2.2,
+      "pressao": 4.81,
+      "velocidade": 1237.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-29T19:00:00",
+    "status": "operando",
+    "consumo_energia": 17.54,
+    "medicoes": {
+      "temperatura": null,
+      "vibracao": 5.96,
+      "pressao": 5.1,
+      "velocidade": 1080.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.2,
+    "medicoes": {
+      "temperatura": 69.9,
+      "vibracao": 1.96,
+      "pressao": 4.09,
+      "velocidade": 1251.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-27T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.61,
+    "medicoes": {
+      "temperatura": 60.0,
+      "vibracao": 2.21,
+      "pressao": 3.97,
+      "velocidade": 1145.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-26T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.13,
+    "medicoes": {
+      "temperatura": 60.4,
+      "vibracao": 2.69,
+      "pressao": 5.87,
+      "velocidade": 1293.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-10T07:00:00",
+    "status": "operando",
+    "consumo_energia": 13.47,
+    "medicoes": {
+      "temperatura": 68.1,
+      "vibracao": 2.12,
+      "pressao": 4.39,
+      "velocidade": 1209.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-02T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.1,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 1.88,
+      "pressao": 4.5,
+      "velocidade": 1115.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-06T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.21,
+    "medicoes": {
+      "temperatura": 65.3,
+      "vibracao": 2.69,
+      "pressao": 4.63,
+      "velocidade": 1218.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.88,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.58,
+      "pressao": 5.55,
+      "velocidade": 1167.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-15T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.29,
+    "medicoes": {
+      "temperatura": 62.1,
+      "vibracao": 2.25,
+      "pressao": 5.77,
+      "velocidade": 1181.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-17T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.24,
+    "medicoes": {
+      "temperatura": 68.2,
+      "vibracao": 2.21,
+      "pressao": 4.52,
+      "velocidade": 1015.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.15,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 1.54,
+      "pressao": 5.27,
+      "velocidade": 1212.1
+    }
+  },
+  {
+    "id_maquina": "MAQ-11",
+    "timestamp": "2025-03-04T12:00:00",
+    "status": "operando",
+    "consumo_energia": 10.05,
+    "medicoes": {
+      "temperatura": 56.6,
+      "vibracao": 1.81,
+      "pressao": 4.59,
+      "velocidade": 1066.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-28T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.1,
+    "medicoes": {
+      "temperatura": 62.6,
+      "vibracao": 2.54,
+      "pressao": 4.91,
+      "velocidade": 1114.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.8,
+    "medicoes": {
+      "temperatura": 64.1,
+      "vibracao": 2.24,
+      "pressao": 5.12,
+      "velocidade": 1163.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-30T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.08,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 2.6,
+      "pressao": 4.71,
+      "velocidade": 1169.8
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.51,
+    "medicoes": {
+      "temperatura": 66.5,
+      "vibracao": 2.72,
+      "pressao": 4.85,
+      "velocidade": 1230.4
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.5,
+    "medicoes": {
+      "temperatura": 81.0,
+      "vibracao": 3.87,
+      "pressao": 4.89,
+      "velocidade": 1268.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 14.09,
+    "medicoes": {
+      "temperatura": 64.2,
+      "vibracao": 3.04,
+      "pressao": 5.13,
+      "velocidade": 1321.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-10",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.45,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.9,
+      "pressao": 4.86,
+      "velocidade": 1303.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-24T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.38,
+    "medicoes": {
+      "temperatura": 56.3,
+      "vibracao": 2.07,
+      "pressao": 5.58,
+      "velocidade": 1158.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-08T19:00:00",
+    "status": "operando",
+    "consumo_energia": 14.18,
+    "medicoes": {
+      "temperatura": 70.8,
+      "vibracao": 1.99,
+      "pressao": 4.44,
+      "velocidade": 1222.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.16,
+    "medicoes": {
+      "temperatura": 67.3,
+      "vibracao": 2.42,
+      "pressao": 5.54,
+      "velocidade": 1132.0
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-30T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.84,
+    "medicoes": {
+      "temperatura": 68.2,
+      "vibracao": 2.51,
+      "pressao": 4.6,
+      "velocidade": 1064.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-20T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.19,
+    "medicoes": {
+      "temperatura": 63.2,
+      "vibracao": 2.17,
+      "pressao": 4.83,
+      "velocidade": 1239.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.29,
+    "medicoes": {
+      "temperatura": 63.7,
+      "vibracao": 1.88,
+      "pressao": 5.22,
+      "velocidade": 1135.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-19T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.95,
+    "medicoes": {
+      "temperatura": 63.8,
+      "vibracao": 2.16,
+      "pressao": 5.51,
+      "velocidade": 1185.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-01",
+    "timestamp": "2025-03-13T19:00:00",
+    "status": "operando",
+    "consumo_energia": 12.34,
+    "medicoes": {
+      "temperatura": 63.6,
+      "vibracao": 1.48,
+      "pressao": 4.82,
+      "velocidade": 1192.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 9.2,
+    "medicoes": {
+      "temperatura": 69.4,
+      "vibracao": 2.16,
+      "pressao": 5.47,
+      "velocidade": 1269.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-07T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.37,
+    "medicoes": {
+      "temperatura": 62.5,
+      "vibracao": 2.21,
+      "pressao": 4.64,
+      "velocidade": 1077.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.69,
+    "medicoes": {
+      "temperatura": 65.0,
+      "vibracao": 2.48,
+      "pressao": 4.47,
+      "velocidade": 921.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-05",
+    "timestamp": "2025-03-23T07:00:00",
+    "status": "operando",
+    "consumo_energia": 12.95,
+    "medicoes": {
+      "temperatura": 68.5,
+      "vibracao": 2.27,
+      "pressao": 5.28,
+      "velocidade": 1255.9
+    }
+  },
+  {
+    "id_maquina": "MAQ-04",
+    "timestamp": "2025-03-08T07:00:00",
+    "status": "operando",
+    "consumo_energia": 11.11,
+    "medicoes": {
+      "temperatura": 61.6,
+      "vibracao": 2.34,
+      "pressao": 5.28,
+      "velocidade": 1183.2
+    }
+  },
+  {
+    "id_maquina": "MAQ-06",
+    "timestamp": "2025-03-02T19:00:00",
+    "status": "operando",
+    "consumo_energia": 10.94,
+    "medicoes": {
+      "temperatura": 69.2,
+      "vibracao": 2.34,
+      "pressao": 4.81,
+      "velocidade": 1143.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-02",
+    "timestamp": "2025-03-09T19:00:00",
+    "status": "operando",
+    "consumo_energia": 11.03,
+    "medicoes": {
+      "temperatura": 68.3,
+      "vibracao": 2.2,
+      "pressao": 5.66,
+      "velocidade": 1289.3
+    }
+  },
+  {
+    "id_maquina": "MAQ-03",
+    "timestamp": "2025-03-27T19:00:00",
+    "status": "operando",
+    "consumo_energia": 15.25,
+    "medicoes": {
+      "temperatura": 70.1,
+      "vibracao": 1.88,
+      "pressao": 5.68,
+      "velocidade": 1158.5
+    }
+  },
+  {
+    "id_maquina": "MAQ-07",
+    "timestamp": "2025-03-19T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.36,
+    "medicoes": {
+      "temperatura": 64.8,
+      "vibracao": 1.89,
+      "pressao": 6.01,
+      "velocidade": 1276.7
+    }
+  },
+  {
+    "id_maquina": "MAQ-08",
+    "timestamp": "2025-03-21T19:00:00",
+    "status": "operando",
+    "consumo_energia": 13.1,
+    "medicoes": {
+      "temperatura": 65.5,
+      "vibracao": 3.2,
+      "pressao": 4.43,
+      "velocidade": 1169.6
+    }
+  },
+  {
+    "id_maquina": "MAQ-09",
+    "timestamp": "2025-03-04T07:00:00",
+    "status": "operando",
+    "consumo_energia": 10.74,
+    "medicoes": {
+      "temperatura": 64.0,
+      "vibracao": 2.69,
+      "pressao": 5.32,
+      "velocidade": 1088.6
+    }
+  }
+]

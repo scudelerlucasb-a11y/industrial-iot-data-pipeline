@@ -1,0 +1,349 @@
+id_producao,data,maquina,produto,quantidade_produzida,quantidade_planejada,tempo_producao,operador,turno
+PR0081,2025-03-07,EXTRUSORA 01,Suporte Metálico,522,600,399.0,Carlos Souza,Tarde
+PR0100,09-03-2025,Prensa Hidráulica 02,Carcaça Plástica,653,700,0.0,Marcos Pereira,tarde
+PR0340,2025-03-30,Extrusora 01,Componente Hidráulico,295,300,431.0,André Nascimento,Tarde
+PR0332,2025-03-30,Fresadora 01,Eixo Automotivo,445,480,406.0,Marcos Pereira,Manhã
+PR0089,08-03-2025,Solda Robotizada 02,Engrenagem Industrial,325,350,476.0,Marcos Pereira,Manhã
+PR0014,2025-03-02,Fresadora 01,Engrenagem Industrial,301,350,449.0,Roberto Alves,Noite
+PR0133,12-03-2025,Prensa Hidráulica 01,Suporte Metálico,-28,600,348.0,Carlos Souza,Noite
+PR0198,2025-03-17, Prensa Hidráulica 02 ,Eixo Automotivo,480,480,408.0,Carlos Souza,Tarde
+PR0173,2025-03-15,Fresadora 02,Engrenagem Industrial,315,350,445.0,André Nascimento,Tarde
+PR0123,2025-03-11,Prensa Hidráulica 2,Carcaça Plástica,600,700,351.0,Juliana Costa,Tarde
+PR0217,2025-03-19,Solda Robotizada 02,Eixo Automotivo,438,480,437.0,André Nascimento,Tarde
+PR0212,2025-03-19,Torno CNC 02,Carcaça Plástica,640,700,384.0,Camila Rocha,Manhã
+PR0061,2025-03-06,Torno CNC 01,Carcaça Plástica,684,700,337.0,Fernanda Lima,Manhã
+PR0186,2025-03-16,Prensa Hidráulica 02,Carcaça Plástica,652,700,372.0,Carlos Souza,Manhã
+PR0037,2025-03-04,Fresadora 01,Carcaça Plástica,649,700,,Juliana Costa,Tarde
+PR0314,2025-03-28,Solda Robotizada 02,Engrenagem Industrial,262,350,505.0,Fernanda Lima,Noite
+PR0032,2025-03-03,Injetora Plástica 01,Componente Hidráulico,259,300,370.0,Carlos Souza,Manhã
+PR0234,2025-03-21,Fresadora 02,Eixo Automotivo,464,480,438.0,Patrícia Gomes,Manhã
+PR0192,2025-03-17,Torno CNC 02,Componente Hidráulico,,300,386.0,Fernanda Lima,Noite
+PR0289,2025-03-26,prensa hidráulica 02,Suporte Metálico,566,600,399.0,Carlos Souza,Manhã
+PR0253,23/03/2025,Fresadora 01,Engrenagem Industrial,311,350,427.0,Juliana Costa,Noite
+PR0229,2025-03-21,TORNO CNC 01,Eixo Automotivo,443,480,394.0,Carlos Souza,Tarde
+PR0278,2025-03-25,Injetora Plástica 01,Componente Hidráulico,285,300,389.0,Juliana Costa, Manhã 
+PR0304,2025-03-27,EXTRUSORA 01,Eixo Automotivo,,480,388.0,André Nascimento,Noite
+PR0045,04-03-2025,Extrusora 01,Componente Hidráulico,269,300,,Juliana Costa,Tarde
+PR0153,2025-03-14,Torno CNC 01,Componente Hidráulico,278,300,402.0,Carlos Souza,NOITE
+PR0063,2025-03-06,Torno CNC 02,Eixo Automotivo,463,480,474.0,Juliana Costa,Manhã
+PR0230,2025-03-21,Torno CNC 01,Carcaça Plástica,627,700,330.0,Camila Rocha,Noite
+PR0182,2025-03-16,Torno CNC 01,Carcaça Plástica,646,700,370.0,Marcos Pereira,Noite
+PR0214,2025-03-19,Fresadora 02,Carcaça Plástica,610,700,377.0,André Nascimento,Tarde
+PR0106,09/03/2025,Extrusora 01,Suporte Metálico,578,600,408.0,Carlos Souza,Manhã
+PR0267,24/03/2025,Injetora Plástica 01,Componente Hidráulico,277,300,369.0,Marcos Pereira,Noite
+PR0256,2025-03-23,Solda Robotizada 02,Suporte Metálico,535,600,400.0,Patrícia Gomes,Manhã
+PR0054,2025-03-05,Prensa Hidráulica 01,Componente Hidráulico,312,300,0.0,Camila Rocha,Noite
+PR0163,2025-03-14,Prensa Hidráulica 02,Engrenagem Industrial,304,350,409.0,Juliana Costa,Tarde
+PR0167,2025-03-14,Extrusora 01,Suporte Metálico,560,600,2226.281564553482,,Tarde
+PR0121,2025-03-11,FRESADORA 01,Componente Hidráulico,274,300,397.0,Carlos Souza,Tarde
+PR0236,2025-03-21,Prensa Hidráulica 02,Engrenagem Industrial,319,350,382.0,Marcos Pereira,Noite
+PR0021,2025-03-02,Extrusora 01,Carcaça Plástica,682,700,364.0,Marcos Pereira,Noite
+PR0243,22-03-2025,Fresadora 01,Carcaça Plástica,619,700,324.0,Patrícia Gomes,Manhã
+PR0010,2025-03-01,Solda Robotizada 02,Componente Hidráulico,262,300,364.0,Fernanda Lima,Tarde
+PR0326,2025-03-29,Solda Robotizada 02,Engrenagem Industrial,308,350,552.0,Marcos Pereira,Noite
+PR0184,2025-03-16,Fresadora 02,Eixo Automotivo,452,480,420.0,Carlos Souza,Tarde
+PR0005,2025-03-01,Fresadora 2,Suporte Metálico,541,600,393.0,Camila Rocha,Noite
+PR0268,2025-03-24,Injetora  Plástica  01,Componente Hidráulico,267,300,401.0,André Nascimento,Tarde
+PR0296,2025-03-27,Fresadora 02,Suporte Metálico,560,600,368.0,André Nascimento,Manhã
+PR0281,26/03/2025,Torno CNC 01,Carcaça Plástica,663,700,411.0,Marcos Pereira,Noite
+PR0104,2025-03-09,Injetora Plástica 01,Engrenagem Industrial,,350,452.0,Patrícia Gomes,Manhã
+PR0284,2025-03-26,Fresadora 01,Componente Hidráulico,242,300,374.0,Fernanda Lima,noite
+PR0298,27-03-2025,Prensa Hidráulica 02,Eixo Automotivo,476,480,407.0,Camila Rocha,Manhã
+PR0075,2025-03-07,Fresadora 02,Carcaça Plástica,672,700,367.0,Camila Rocha,Tarde
+PR0168,2025-03-15,Torno CNC 01,Eixo Automotivo,474,480,416.0,,Manhã
+PR0058,2025-03-05,Solda Robotizada 02,Engrenagem Industrial,321,350,447.0,Juliana Costa,Tarde
+PR0040,2025-03-04,Prensa Hidráulica 02,Eixo Automotivo,449,480,370.0,Juliana Costa,Tarde
+PR0099,09/03/2025,Prensa Hidráulica 01,Engrenagem Industrial,306,350,443.0,Roberto Alves, Tarde 
+PR0140,2025-03-13,Torno CNC 01,Carcaça Plástica,653,700,350.0,Carlos Souza,Noite
+PR0111,10-03-2025,Fresadora 01,Suporte Metálico,641,600,333.0,Camila Rocha,Noite
+PR0308,2025-03-28,Prensa Hidráulica 01,Suporte Metálico,646,600,383.0,Marcos Pereira,Manhã
+PR0271,2025-03-25,Torno CNC 01,Componente Hidráulico,,300,371.0,Fernanda Lima,Tarde
+PR0339,2025-03-30,Extrusora 01,Componente Hidráulico,259,300,443.0,Marcos Pereira,Noite
+PR0151,2025-03-13,Extrusora 01,Suporte Metálico,528,600,365.0,André Nascimento,Manhã
+PR0135,2025-03-12,Solda Robotizada 01,Engrenagem Industrial,316,350,443.0,Patrícia Gomes,Tarde
+PR0022,03/03/2025,Torno CNC 01,Componente Hidráulico,276,300,392.0,Patrícia Gomes,Noite
+PR0073,2025-03-07,Fresadora 01,Carcaça Plástica,-7,700,379.0,Roberto Alves,Noite
+PR0033,2025-03-03,Extrusora 01,Suporte Metálico,587,600,413.0,Carlos Souza,Tarde
+PR0128,2025-03-11,Extrusora 01,Componente Hidráulico,251,300,387.0,Roberto Alves,Noite
+PR0306,2025-03-28,fresadora 01,Carcaça Plástica,678,700,358.0,Juliana Costa,Noite
+PR0144,13-03-2025,Prensa Hidráulica 01,Carcaça Plástica,,700,374.0,Camila Rocha,Noite
+PR0194,2025-03-17,Fresadora 02,Eixo Automotivo,456,480,466.0,Juliana Costa,Tarde
+PR0090,2025-03-08,SOLDA ROBOTIZADA 02,Eixo Automotivo,,480,488.0,Marcos Pereira,Tarde
+PR0232,21/03/2025,Fresadora 01,Engrenagem Industrial,310,350,445.0,Roberto Alves,Noite
+PR0031,2025-03-03,Injetora Plástica 01,Carcaça Plástica,630,700,355.0,Patrícia Gomes, Noite 
+PR0201,2025-03-17,Injetora Plástica 01,Componente Hidráulico,250,300,385.0,,Manhã
+PR0265,24-03-2025,Prensa Hidráulica 02,Componente Hidráulico,283,300,377.0,Fernanda Lima,Tarde
+PR0038,2025-03-04,Fresadora 01,Engrenagem Industrial,270,350,460.0,André Nascimento,Manhã
+PR0096,2025-03-09,torno cnc 02,Eixo Automotivo,433,480,441.0,Juliana Costa,Tarde
+PR0039,2025-03-04,Prensa Hidráulica 01,Componente Hidráulico,280,300,392.0,Fernanda Lima,Noite
+PR0269,2025-03-24,extrusora 01,Componente Hidráulico,263,300,390.0,Camila Rocha,Manhã
+PR0157,2025-03-14,Fresadora 01,Engrenagem Industrial,342,350,460.0,Camila Rocha,Noite
+PR0264,2025-03-24,Prensa Hidráulica 01,Componente Hidráulico,249,300,401.0,André Nascimento,Manhã
+PR0161,2025-03-14,Prensa Hidráulica 01,Componente Hidráulico,280,300,414.0,Marcos Pereira,Manhã
+PR0016,2025-03-02,Prensa Hidráulica 01,Suporte Metálico, 536 ,600,426.0,Roberto Alves,Noite
+PR0259,2025-03-23,Extrusora 01,Eixo Automotivo,460,480,395.0,Roberto Alves,Noite
+PR0110,2025-03-10,Fresadora 01,Componente Hidráulico,270,300,402.0,Juliana Costa,Manhã
+PR0258,2025-03-23,Injetora Plástica 01,Carcaça Plástica,626,700,378.0,Marcos Pereira,Manhã
+PR0082,2025-03-08,Torno CNC 01,Suporte Metálico,599,600,359.0,Juliana Costa,Tarde
+PR0134,12/03/2025,Prensa Hidráulica 02,Componente Hidráulico,308,300,364.0,Fernanda Lima,Manhã
+PR0280,2025-03-25,Extrusora 01,Engrenagem Industrial,333,350,429.0,Juliana Costa,Manhã
+PR0102,2025-03-09,Solda Robotizada 01,Carcaça Plástica,696,700,386.0,Patrícia Gomes,Tarde
+PR0160,2025-03-14,PRENSA HIDRÁULICA 01,Suporte Metálico,569,600,376.0,Juliana Costa,Noite
+PR0295,27/03/2025,Fresadora 01,Eixo Automotivo,470,480,398.0,Carlos Souza,Tarde
+PR0141,13/03/2025,Torno CNC 02,Engrenagem Industrial, 327 ,350,456.0,Fernanda Lima,Noite
+PR0084,2025-03-08,Fresadora 02,Componente Hidráulico, 293 ,300,447.0,,Manhã
+PR0176,15/03/2025,Prensa Hidráulica 02,Eixo Automotivo,455,480,456.0,Roberto Alves,Noite
+PR0238,2025-03-21,Solda Robotizada 02,Suporte Metálico,605,600,380.0,Juliana Costa,Manhã
+PR0107,2025-03-10,Torno CNC 01,Eixo Automotivo,473,480,436.0,Camila Rocha, Noite 
+PR0018,2025-03-02,Solda Robotizada 01,Eixo Automotivo,470,480,389.0,Patrícia Gomes,Manhã
+PR0197,17/03/2025,Prensa Hidráulica 02,Componente Hidráulico,255,300,445.0,Camila Rocha,Manhã
+PR0124,2025-03-11,Solda  Robotizada  01,Componente Hidráulico,270,300,383.0,Carlos Souza,Tarde
+PR0190,16/03/2025,Extrusora 01,Engrenagem Industrial,,350,419.0,Fernanda Lima, Tarde 
+PR0003,2025-03-01,Torno CNC 02,Eixo Automotivo,439,480,414.0,Carlos Souza,Noite
+PR0052,2025-03-05,Fresadora 02,Carcaça Plástica,636,700,339.0,Fernanda Lima,Tarde
+PR0213,2025-03-19,Fresadora 01,Suporte Metálico,581,600,414.0,Fernanda Lima,Tarde
+PR0257,2025-03-23,Solda Robotizada 02,Suporte Metálico,518,600,378.0,Carlos Souza,Noite
+PR0024,2025-03-03,Fresadora 01,Suporte Metálico,541,600,406.0,André Nascimento,Manhã
+PR0079,2025-03-07,Solda Robotizada 01,Eixo Automotivo,500,480,431.0,Fernanda Lima,Tarde
+PR0331,30-03-2025,Torno CNC 02,Engrenagem Industrial,313,350,426.0,Camila Rocha,Manhã
+PR0091,2025-03-08,Injetora Plástica 01,Eixo Automotivo,464,480,398.0,Fernanda Lima,Tarde
+PR0125,2025-03-11,Solda Robotizada 02,Suporte Metálico,621,600,390.0,Camila Rocha,Noite
+PR0156,2025-03-14,Torno CNC 02,Componente Hidráulico,275,300,427.0,Patrícia Gomes,Tarde
+PR0288,26/03/2025,Prensa Hidráulica 02,Eixo Automotivo,470,480,364.0,Roberto Alves,Noite
+PR0207,2025-03-18,Solda Robotizada 01,Engrenagem Industrial,293,350,471.0,André Nascimento,Tarde
+PR0250,2025-03-23,Torno CNC 02,Componente Hidráulico,263,300,365.0,Camila Rocha,Tarde
+PR0097,2025-03-09,Fresadora 01,Engrenagem Industrial,329,350,408.0,Patrícia Gomes,Noite
+PR0055,2025-03-05,Prensa Hidráulica 02,Suporte Metálico,567,600,378.0,André Nascimento,Manhã
+PR0320,29-03-2025,Fresadora 02,Suporte Metálico,511,600,347.0,Camila Rocha,Manhã
+PR0286,2025-03-26,Fresadora 02,Componente Hidráulico,279,300,441.0,André Nascimento,Noite
+PR0070,2025-03-07,Torno CNC 01,Carcaça Plástica,685,700,329.0,Marcos Pereira,tarde
+PR0111,10-03-2025,Fresadora 01,Suporte Metálico,651,600,333.0,Camila Rocha,Noite
+PR0260,24/03/2025,Torno CNC 01,Engrenagem Industrial,327,350,458.0,Carlos Souza,Noite
+PR0071,07/03/2025,Torno CNC 02,Carcaça Plástica,660,700,392.0,Marcos Pereira,NOITE
+PR0105,2025-03-09,Injetora Plástica 01,Eixo Automotivo,461,480,516.0,Juliana Costa,Noite
+PR0314,2025-03-28,Solda Robotizada 02,Engrenagem Industrial,272,350,505.0,Fernanda Lima,Noite
+PR0315,2025-03-28, Injetora Plástica 01 ,Eixo Automotivo,448,480,447.0,Patrícia Gomes,Manhã
+PR0330,30/03/2025,Torno CNC 01,Engrenagem Industrial,329,350,436.0,Carlos Souza,Noite
+PR0072,2025-03-07,Torno CNC 02,Eixo Automotivo,400,480,424.0,Roberto Alves,Manhã
+PR0101,2025-03-09,Prensa Hidráulica 02,Componente Hidráulico,285,300,414.0,Carlos Souza,Manhã
+PR0311,2025-03-28,Solda Robotizada 01,Engrenagem Industrial,308,350,451.0,Roberto Alves,NOITE
+PR0193,2025-03-17,Fresadora 01,Componente Hidráulico,265,300,403.0,Carlos Souza,Manhã
+PR0146,2025-03-13,Prensa Hidráulica 02,Suporte Metálico,550,600,367.0,Fernanda Lima,Tarde
+PR0334,2025-03-30,Prensa Hidráulica 01,Suporte Metálico,548,600,417.0,Roberto Alves,Manhã
+PR0294,2025-03-27,Torno CNC 02,Suporte Metálico,541,600,358.0,Roberto Alves,Tarde
+PR0292,2025-03-26,Injetora Plástica 01,Carcaça Plástica,677,700,416.0,Camila Rocha,Tarde
+PR0202,2025-03-17,Extrusora 01,Engrenagem Industrial,325,350,0.0,Marcos Pereira,Tarde
+PR0095,2025-03-09,Torno CNC 02,Eixo Automotivo,422,480,382.0,André Nascimento,MANHÃ
+PR0132,2025-03-12, Prensa Hidráulica 01 ,Eixo Automotivo,353,480,394.0,Juliana Costa,Manhã
+PR0006,2025-03-01,Fresadora 02,Carcaça Plástica,631,700,348.0,Marcos Pereira,Tarde
+PR0303,2025-03-27,Injetora Plástica 01,Eixo Automotivo,-27,480,466.0,Juliana Costa,Noite
+PR0027,2025-03-03,Prensa Hidráulica 01,Engrenagem Industrial,311,350,455.0,Fernanda Lima,Noite
+PR0164,2025-03-14,Solda Robotizada 01,Carcaça Plástica,699,700,379.0,Roberto Alves,Manhã
+PR0092,08/03/2025,Injetora Plástica 01,Engrenagem Industrial,303,350,452.0,Roberto Alves,Noite
+PR0116,2025-03-10,Solda Robotizada 02,Componente Hidráulico,265,300,405.0,Juliana Costa,Noite
+PR0076,2025-03-07,Prensa Hidráulica 01,Componente Hidráulico,283,300,408.0,Marcos Pereira,Manhã
+PR0233,2025-03-21,Fresadora 02,Engrenagem Industrial,323,350,434.0,Camila Rocha,Noite
+PR0312,2025-03-28,Solda Robotizada 01,Componente Hidráulico,312,300,433.0,Fernanda Lima,Tarde
+PR0166,14-03-2025,Injetora Plástica 01,Eixo Automotivo,446,480,397.0,Marcos Pereira,Manhã
+PR0119,2025-03-11,Torno CNC 01,Suporte Metálico,485,600,384.0,Juliana Costa,Noite
+PR0078,07/03/2025,Solda Robotizada 01,Carcaça Plástica,663,700,342.0,Carlos Souza,noite
+PR0310,2025-03-28,Prensa Hidráulica 02,Componente Hidráulico,287,300,405.0,Camila Rocha,Noite
+PR0009,2025-03-01,Solda Robotizada 01,Carcaça Plástica,608,700,367.0,Marcos Pereira,Tarde
+PR0046,2025-03-05,Torno CNC 01,Componente Hidráulico,280,300,424.0,André Nascimento,Tarde
+PR0007,2025-03-01,prensa hidráulica 01,Componente Hidráulico,283,300,352.0,Patrícia Gomes,Manhã
+PR0028,2025-03-03,Prensa Hidráulica 02,Eixo Automotivo,476,480,443.0,Marcos Pereira,Tarde
+PR0004,2025-03-01,Fresadora 01,Carcaça Plástica,717,700,379.0,Carlos Souza,Noite
+PR0321,2025-03-29,Fresadora 02,Componente Hidráulico,272,300,441.0,Roberto Alves,Noite
+PR0175,2025-03-15,Prensa Hidráulica 01,Engrenagem Industrial,310,350,434.0,Fernanda Lima,Noite
+PR0149,2025-03-13,Solda Robotizada 02,Suporte Metálico,590,600,387.0,Camila Rocha,Tarde
+PR0042,2025-03-04,Solda Robotizada 02,Eixo Automotivo,488,480,407.0,Juliana Costa,Tarde
+PR0017,2025-03-02,Prensa Hidráulica 02,Carcaça Plástica,650,700,333.0,Juliana Costa,Noite
+PR0219,2025-03-19,Injetora Plástica 01,Eixo Automotivo,493,480,385.0,Patrícia Gomes,Tarde
+PR0200,2025-03-17,Injetora Plástica 01,Suporte Metálico,553,600,410.0,Fernanda Lima,Tarde
+PR0147,2025-03-13,Prensa Hidráulica 02,Engrenagem Industrial,313,350,461.0,Camila Rocha,NOITE
+PR0152,2025-03-13,Extrusora 01,Componente Hidráulico,292,300,415.0,Juliana Costa,Noite
+PR0130,2025-03-12,Torno CNC 02,Componente Hidráulico,286,300,419.0,Marcos Pereira,Tarde
+PR0179,2025-03-15,Injetora Plástica 01,Carcaça Plástica,650,700,352.0,Juliana Costa,Tarde
+PR0322,2025-03-29, Prensa Hidráulica 01 ,Componente Hidráulico,274,300,362.0,Patrícia Gomes,Tarde
+PR0077,2025-03-07,Prensa Hidráulica 02,Engrenagem Industrial,311,350,445.0,Roberto Alves,Manhã
+PR0324,2025-03-29,Solda Robotizada 01,Engrenagem Industrial,268,350,438.0,Marcos Pereira,Noite
+PR0172,2025-03-15,Fresadora 02,Componente Hidráulico,283,300,387.0,Camila Rocha,Manhã
+PR0051,2025-03-05,Fresadora 01,Engrenagem Industrial,295,350,429.0,Camila Rocha,Manhã
+PR0094,2025-03-09,Torno CNC 01,Carcaça Plástica,670,700,358.0,Fernanda Lima,Tarde
+PR0169,15/03/2025,Torno CNC 02,Suporte Metálico,528,600,371.0,Roberto Alves,Noite
+PR0273,2025-03-25,Fresadora 02,Eixo Automotivo,375,480,400.0,Fernanda Lima,Manhã
+PR0093,2025-03-08,EXTRUSORA 01,Eixo Automotivo,439,480,437.0,André Nascimento,Manhã
+PR0159,2025-03-14,Fresadora  02,Suporte Metálico,582,600,372.0,Patrícia Gomes,Noite
+PR0224,2025-03-20,Fresadora 02,Engrenagem Industrial,-5,350,416.0,Camila Rocha,noite
+PR0154,2025-03-14,Torno CNC 01,Eixo Automotivo,483,480,405.0,Marcos Pereira,Tarde
+PR0155,14/03/2025,Torno CNC 02,Carcaça Plástica,673,700,354.0,Patrícia Gomes,Manhã
+PR0221,19-03-2025,Extrusora 01,Suporte Metálico,571,600,379.0,André Nascimento,Manhã
+PR0150,2025-03-13,Injetora Plástica 01,Engrenagem Industrial,342,350,455.0,Marcos Pereira,Tarde
+PR0318,2025-03-29,Torno CNC 01,Engrenagem Industrial,304,350,398.0,Camila Rocha,Manhã
+PR0117,2025-03-10,Injetora Plástica 01,Engrenagem Industrial,326,350,423.0,Juliana Costa,Noite
+PR0335,2025-03-30,Prensa Hidráulica 01,Suporte Metálico,462,600,407.0,Roberto Alves,Tarde
+PR0189,2025-03-16,INJETORA PLÁSTICA 01,Componente Hidráulico,294,300,404.0,Fernanda Lima,Noite
+PR0270,2025-03-24,Extrusora 01,Suporte Metálico,594,600,365.0,André Nascimento,Noite
+PR0087,2025-03-08,Prensa Hidráulica 02,Suporte Metálico,555,600,388.0,Juliana Costa,Tarde
+PR0309,28/03/2025,Prensa Hidráulica 02,Suporte Metálico,561,600,398.0,Camila Rocha,Manhã
+PR0274,25/03/2025,Prensa Hidráulica 01,Engrenagem Industrial,337,350,434.0,Roberto Alves,Noite
+PR0195,2025-03-17,Fresadora 02,Carcaça Plástica,690,700,345.0,Patrícia Gomes,NOITE
+PR0029,03/03/2025,Solda Robotizada 02,Carcaça Plástica,615,700,2158.81848683974,,Manhã
+PR0056,05-03-2025,Solda Robotizada 01,Componente Hidráulico,244,300,399.0,Marcos Pereira,Tarde
+PR0048,2025-03-05,Torno CNC 02,Componente Hidráulico,271,300,363.0,Patrícia Gomes,Manhã
+PR0337,30/03/2025, Solda Robotizada 02 ,Carcaça Plástica,530,700,,Juliana Costa,Tarde
+PR0108,2025-03-10,TORNO CNC 02,Componente Hidráulico,273,300,418.0,Camila Rocha,Noite
+PR0236,2025-03-21,Prensa Hidráulica 02,Engrenagem Industrial,319,350,382.0,Marcos Pereira,Noite
+PR0026,2025-03-03,Prensa Hidráulica 01,Carcaça Plástica,664,700,350.0,Marcos Pereira,Manhã
+PR0181,2025-03-15,Extrusora 01,Eixo Automotivo,461,480,458.0,Carlos Souza,Noite
+PR0098,2025-03-09,Fresadora 02,Engrenagem Industrial,329,350,449.0,Marcos Pereira,Noite
+PR0208,2025-03-18,solda robotizada 02,Suporte Metálico,569,600,361.0,André Nascimento,Manhã
+PR0080,2025-03-07,Injetora Plástica 01,Eixo Automotivo,412,480,436.0,Patrícia Gomes,Noite
+PR0180,2025-03-15,Extrusora 01,Engrenagem Industrial,332,350,419.0,Roberto Alves,Manhã
+PR0199,17-03-2025,Solda Robotizada 02,Suporte Metálico,496,600,413.0,Marcos Pereira,Noite
+PR0012,01-03-2025,Injetora  Plástica  01,Eixo Automotivo,448,480,384.0,Carlos Souza,Tarde
+PR0143,2025-03-13,Fresadora 02,Componente Hidráulico, 317 ,300,351.0,Roberto Alves,Noite
+PR0139,2025-03-13,Torno CNC 01,Engrenagem Industrial,329,350,424.0,Fernanda Lima,Manhã
+PR0035,2025-03-04,Torno CNC 01,Carcaça Plástica,666,700,343.0,Roberto Alves,Noite
+PR0247,2025-03-22,INJETORA PLÁSTICA 01,Carcaça Plástica, 654 ,700,338.0,André Nascimento,Tarde
+PR0030,2025-03-03,Solda Robotizada 02,Suporte Metálico,569,600,404.0,Patrícia Gomes,Tarde
+PR0068,2025-03-06,Prensa Hidráulica 02,Componente Hidráulico,262,300,438.0,Fernanda Lima, Manhã 
+PR0011,2025-03-01,Solda Robotizada 02,Carcaça Plástica,712,700,354.0,Marcos Pereira,Manhã
+PR0083,2025-03-08,Torno CNC 02,Componente Hidráulico,296,300,,Roberto Alves,Noite
+PR0069,2025-03-06,Solda Robotizada 01,Engrenagem Industrial,309,350,431.0,Roberto Alves,Noite
+PR0196,2025-03-17,Prensa Hidráulica 01,Componente Hidráulico,262,300,412.0,Carlos Souza,Noite
+PR0323,29/03/2025,Prensa Hidráulica 02,Engrenagem Industrial,320,350,433.0,Fernanda Lima,Noite
+PR0074,2025-03-07,Fresadora 02,Suporte Metálico,513,600,346.0,Marcos Pereira,Manhã
+PR0043,04/03/2025,Injetora Plástica 01,Carcaça Plástica,617,700,347.0,Roberto Alves,Manhã
+PR0317,2025-03-29,Torno CNC 01,Componente Hidráulico,276,300,389.0,Juliana Costa,Noite
+PR0223,2025-03-20,Torno CNC 02,Suporte Metálico,511,600,396.0,Camila Rocha,Noite
+PR0008,01/03/2025,Prensa Hidráulica 02,Eixo Automotivo,396,480,405.0,Fernanda Lima,Tarde
+PR0178,2025-03-15,Solda  Robotizada  02,Engrenagem Industrial,325,350,414.0,Camila Rocha,Tarde
+PR0131,2025-03-12,Fresadora 01,Carcaça Plástica,612,700,358.0,Carlos Souza,Manhã
+PR0218,19/03/2025,Solda Robotizada 02,Eixo Automotivo,489,480,421.0,Fernanda Lima,Manhã
+PR0333,2025-03-30,fresadora 02,Carcaça Plástica,621,700,362.0,Carlos Souza,Noite
+PR0086,2025-03-08,Prensa Hidráulica 02,Eixo Automotivo,420,480,399.0,Camila Rocha,Manhã
+PR0020,2025-03-02,Injetora Plástica 01,Componente Hidráulico,255,300,404.0,Roberto Alves,Tarde
+PR0299,2025-03-27,Prensa Hidráulica 02,Eixo Automotivo,438,480,395.0,Patrícia Gomes,Tarde
+PR0122,11-03-2025,Prensa Hidráulica 01,Eixo Automotivo,460,480,441.0,Patrícia Gomes,Tarde
+PR0245,2025-03-22,Prensa Hidráulica 02,Eixo Automotivo,494,480,442.0,Carlos Souza,Manhã
+PR0338,2025-03-30,SOLDA ROBOTIZADA 02,Engrenagem Industrial,246,350,504.0,Camila Rocha,Manhã
+PR0137,2025-03-12,Solda Robotizada 02,Eixo Automotivo,479,480,420.0,Carlos Souza,Manhã
+PR0237,2025-03-21,Solda Robotizada 01,Engrenagem Industrial,293,350,474.0,Patrícia Gomes,Tarde
+PR0203,2025-03-18,Torno CNC 01,Suporte Metálico,541,600,395.0,Camila Rocha,Tarde
+PR0085,08/03/2025,Prensa Hidráulica 01,Suporte Metálico,549,600,361.0,Marcos Pereira,Tarde
+PR0019,2025-03-02,Solda  Robotizada  02,Carcaça Plástica,659,700,311.0,Patrícia Gomes,Manhã
+PR0114,2025-03-10,Prensa Hidráulica 01,Carcaça Plástica,653,700,333.0,Camila Rocha,Tarde
+PR0327,2025-03-29,Solda Robotizada 02,Componente Hidráulico,232,300,438.0,Roberto Alves,Manhã
+PR0044,2025-03-04,Extrusora 01,Suporte Metálico,590,600,388.0,Camila Rocha,Noite
+PR0255,2025-03-23,Solda Robotizada 01,Suporte Metálico,559,600,359.0,Juliana Costa,Manhã
+PR0263,2025-03-24,Fresadora 02,Eixo Automotivo,424,480,374.0,Marcos Pereira,Noite
+PR0165,2025-03-14,Solda Robotizada 02,Engrenagem Industrial,338,350,455.0,Roberto Alves,Noite
+PR0290,2025-03-26,Solda Robotizada 01,Componente Hidráulico,252,300,428.0,Camila Rocha,Tarde
+PR0329,2025-03-29,Extrusora 01,Carcaça Plástica,651,700,359.0,Fernanda Lima,Manhã
+PR0272,2025-03-25,Torno CNC 02,Engrenagem Industrial, 336 ,350,476.0,Patrícia Gomes,Noite
+PR0227,2025-03-20,Solda Robotizada 01,Suporte Metálico,522,600,392.0,André Nascimento,Tarde
+PR0328,2025-03-29,Injetora Plástica 01,Carcaça Plástica,759,700,361.0,André Nascimento,Tarde
+PR0036,04/03/2025,Torno CNC 02,Suporte Metálico,571,600,418.0,Marcos Pereira,Noite
+PR0307,2025-03-28,Prensa Hidráulica 01,Suporte Metálico,568,600,0.0,Fernanda Lima,Noite
+PR0112,2025-03-10,Fresadora 02,Componente Hidráulico,291,300,359.0,Roberto Alves,Manhã
+PR0034,04-03-2025,Torno CNC 01,Componente Hidráulico,277,300,425.0,Fernanda Lima,Manhã
+PR0174,2025-03-15,Prensa  Hidráulica  01,Suporte Metálico,505,600,344.0,Juliana Costa,Manhã
+PR0001,01/03/2025,Torno CNC 01,Engrenagem Industrial,335,350,436.0,Juliana Costa,Noite
+PR0282,2025-03-26,Torno CNC 01,Eixo Automotivo, 471 ,480,411.0,Roberto Alves,MANHÃ
+PR0136,2025-03-12,Solda Robotizada 02,Suporte Metálico,609,600,344.0,Marcos Pereira,Noite
+PR0285,2025-03-26,Fresadora 02,Carcaça Plástica,572,700,351.0,Juliana Costa,Manhã
+PR0301,2025-03-27,Solda Robotizada 01,Componente Hidráulico,292,300,376.0,Carlos Souza,Noite
+PR0266,2025-03-24,Solda Robotizada 02,Suporte Metálico,537,600,365.0,Marcos Pereira,Manhã
+PR0302,27/03/2025,Injetora Plástica 01,Eixo Automotivo, 471 ,480,,André Nascimento,Tarde
+PR0226,2025-03-20,Prensa Hidráulica 02,Engrenagem Industrial,324,350,463.0,André Nascimento,Noite
+PR0300,2025-03-27,Solda Robotizada 01,Engrenagem Industrial, 316 ,350,449.0,Fernanda Lima,Tarde
+PR0191,2025-03-17,Torno CNC 02,Componente Hidráulico,263,300,385.0,Carlos Souza,Tarde
+PR0325,2025-03-29,Solda Robotizada 01,Carcaça Plástica,641,700,377.0,Roberto Alves,Tarde
+PR0268,2025-03-24,Injetora  Plástica  01,Componente Hidráulico,267,300,401.0,André Nascimento,Tarde
+PR0244,2025-03-22,Prensa Hidráulica 01,Componente Hidráulico,267,300,372.0,Marcos Pereira,Noite
+PR0049,2025-03-05,Torno CNC 02,Eixo Automotivo,454,480,426.0,Juliana Costa,Noite
+PR0205,2025-03-18,Fresadora 02,Carcaça Plástica,656,700,372.0,Marcos Pereira,Tarde
+PR0103,2025-03-09,Solda Robotizada 2,Suporte Metálico,508,600,356.0,Camila Rocha,Noite
+PR0067,06-03-2025,Prensa Hidráulica 01,Suporte Metálico,519,600,391.0,Marcos Pereira,manhã
+PR0189,2025-03-16,INJETORA PLÁSTICA 01,Componente Hidráulico,294,300,404.0,Fernanda Lima,Noite
+PR0293,2025-03-26,Extrusora 01,Suporte Metálico,564,600,386.0,André Nascimento,Manhã
+PR0254,23-03-2025,Prensa Hidráulica 02,Suporte Metálico,536,600,358.0,Carlos Souza,Noite
+PR0216,2025-03-19,Solda Robotizada 01,Eixo Automotivo,,480,369.0,Fernanda Lima,Noite
+PR0283,2025-03-26,Torno CNC 02,Engrenagem Industrial,350,350,429.0,Carlos Souza,Tarde
+PR0277,2025-03-25,Solda Robotizada 02,Engrenagem Industrial,318,350,490.0,Patrícia Gomes,Noite
+PR0162,14/03/2025,PRENSA HIDRÁULICA 02,Eixo Automotivo,422,480,472.0,Juliana Costa,Noite
+PR0088,2025-03-08,Solda Robotizada 01,Engrenagem Industrial,331,350,460.0,Juliana Costa,Tarde
+PR0065,2025-03-06,Fresadora 01,Carcaça Plástica,655,700,347.0,Patrícia Gomes,Noite
+PR0211,19/03/2025,Torno CNC 02,Componente Hidráulico,316,300,443.0,Fernanda Lima,Tarde
+PR0158,2025-03-14,Fresadora 01,Engrenagem Industrial,352,350,440.0,Marcos Pereira,Tarde
+PR0204,18/03/2025,Torno CNC 02,Carcaça Plástica,606,700,356.0,Roberto Alves, Manhã 
+PR0015,02/03/2025,Fresadora 02,Engrenagem Industrial,312,350,432.0,Fernanda Lima,Noite
+PR0113,10/03/2025,Prensa  Hidráulica  01,Componente Hidráulico,270,300,427.0,André Nascimento,Noite
+PR0287,26-03-2025,PRENSA HIDRÁULICA 01,Engrenagem Industrial, 332 ,350,434.0,Patrícia Gomes,Tarde
+PR0305,2025-03-28,Torno CNC 02,Suporte Metálico,493,600,417.0,Fernanda Lima,Tarde
+PR0225,20/03/2025,Prensa Hidráulica 01,Engrenagem Industrial,314,350,413.0,Roberto Alves,Tarde
+PR0210,18-03-2025,Extrusora 01,Suporte Metálico,600,600,381.0,Camila Rocha,Tarde
+PR0177,15-03-2025,Solda Robotizada 01,Carcaça Plástica,687,700,356.0,Camila Rocha,noite
+PR0171,2025-03-15,Fresadora 01,Carcaça Plástica,616,700,366.0,André Nascimento,Manhã
+PR0170,2025-03-15,Torno CNC 02,Carcaça Plástica,668,700,345.0,Marcos Pereira,Manhã
+PR0148,13/03/2025, Solda Robotizada 01 ,Carcaça Plástica,665,700,342.0,André Nascimento,noite
+PR0062,2025-03-06,Torno CNC 01,Suporte Metálico,608,600,344.0,Fernanda Lima,Noite
+PR0231,2025-03-21,TORNO CNC 02,Carcaça Plástica,733,700,360.0,Patrícia Gomes,Manhã
+PR0047,2025-03-05,Torno CNC 01,Componente Hidráulico,266,300,391.0,Carlos Souza,Noite
+PR0241,2025-03-22,Torno CNC 02,Carcaça Plástica,645,700,336.0,André Nascimento,Noite
+PR0115,2025-03-10,Solda Robotizada 01,Engrenagem Industrial,310,350,456.0,Juliana Costa,Tarde
+PR0248,2025-03-22,Extrusora 01,Eixo Automotivo,490,480,433.0,Camila Rocha,Manhã
+PR0316,28/03/2025,Extrusora 1,Eixo Automotivo,397,480,458.0,André Nascimento,Noite
+PR0109,2025-03-10,Torno CNC 02,Componente Hidráulico,265,300,394.0,Juliana Costa,Manhã
+PR0220,2025-03-19,injetora plástica 01,Eixo Automotivo,397,480,,Marcos Pereira,Manhã
+PR0291,2025-03-26,solda robotizada 02,Suporte Metálico,509,600,413.0,Fernanda Lima,Tarde
+PR0002,2025-03-01,Torno CNC 02,Carcaça Plástica,678,700,398.0,André Nascimento,Manhã
+PR0041,2025-03-04,Solda Robotizada 01,Eixo Automotivo,440,480,428.0,Juliana Costa,Manhã
+PR0025,2025-03-03,Fresadora 02,Carcaça Plástica, 665 ,700,315.0,Camila Rocha,Tarde
+PR0262,2025-03-24,Fresadora 01,Engrenagem Industrial,311,350,454.0,Fernanda Lima,Tarde
+PR0240,2025-03-22,Torno CNC 01,Carcaça Plástica,780,700,387.0,Fernanda Lima,Tarde
+PR0145,2025-03-13,Prensa Hidráulica 01,Componente Hidráulico,284,300,384.0,André Nascimento,Tarde
+PR0129,2025-03-12,Torno CNC 01,Suporte Metálico,603,600,362.0,Camila Rocha,Tarde
+PR0187,2025-03-16,Solda Robotizada 02,Eixo Automotivo,488,480,443.0,Roberto Alves,Noite
+PR0053,2025-03-05,Prensa Hidráulica 01,Suporte Metálico,552,600,390.0,Roberto Alves,Manhã
+PR0246,22/03/2025,Solda Robotizada 01,Eixo Automotivo,446,480,456.0,Juliana Costa,Manhã
+PR0261,2025-03-24,Torno CNC 02,Componente Hidráulico,248,300,413.0,Fernanda Lima,Manhã
+PR0115,2025-03-10,Solda Robotizada 01,Engrenagem Industrial,310,350,456.0,Juliana Costa,Tarde
+PR0279,2025-03-25,Injetora Plástica 01,Eixo Automotivo, 432 ,480,409.0,Patrícia Gomes,Noite
+PR0064,06/03/2025,Torno CNC 02,Carcaça Plástica,609,700,345.0,Carlos Souza,Tarde
+PR0183,16/03/2025,Torno CNC 02,Engrenagem Industrial,339,350,429.0,André Nascimento,Noite
+PR0336,2025-03-30,Prensa Hidráulica 02,Engrenagem Industrial,351,350,388.0,Juliana Costa,Tarde
+PR0206,2025-03-18,Prensa Hidráulica 01,Engrenagem Industrial,340,350,411.0,Camila Rocha,noite
+PR0059,2025-03-05,Extrusora 01,Eixo Automotivo,445,480,390.0,Carlos Souza,Manhã
+PR0142,2025-03-13,Fresadora 01,Componente Hidráulico,307,300,369.0,Camila Rocha,manhã
+PR0050,05/03/2025,Fresadora 01,Componente Hidráulico,279,300,394.0,Roberto Alves,Tarde
+PR0313,2025-03-28,Solda Robotizada 02,Carcaça Plástica, 618 ,700,402.0,Carlos Souza,Tarde
+PR0209,2025-03-18,Injetora Plástica 01,Engrenagem Industrial,358,350,442.0,Camila Rocha,Manhã
+PR0138,2025-03-12,Extrusora 01,Suporte Metálico,522,600,391.0,Fernanda Lima,Tarde
+PR0120,11/03/2025,TORNO CNC 02,Carcaça Plástica,623,700,381.0,Camila Rocha,Tarde
+PR0276,25-03-2025,Prensa Hidráulica 2,Engrenagem Industrial, 327 ,350,436.0,André Nascimento,Tarde
+PR0228,2025-03-20,Injetora Plástica 01,Engrenagem Industrial,314,350,420.0,Marcos Pereira,NOITE
+PR0130,2025-03-12,Torno CNC 02,Componente Hidráulico,286,300,419.0,Marcos Pereira,Tarde
+PR0185,2025-03-16,Prensa Hidráulica 02,Eixo Automotivo,449,480,400.0,Juliana Costa,Tarde
+PR0215,2025-03-19,Prensa Hidráulica 01,Carcaça Plástica,695,700,316.0,André Nascimento,Noite
+PR0275,2025-03-25,Prensa Hidráulica 02,Eixo Automotivo,457,480,404.0,André Nascimento,Noite
+PR0013,2025-03-01,Injetora Plástica 01,Suporte Metálico,538,600,382.0,Marcos Pereira,Manhã
+PR0121,2025-03-11,FRESADORA 01,Componente Hidráulico,264,300,397.0,Carlos Souza,Tarde
+PR0235,2025-03-21,prensa hidráulica 01,Engrenagem Industrial,314,350,425.0,André Nascimento,Tarde
+PR0319,2025-03-29,Torno CNC 02,Eixo Automotivo,470,480,421.0,Patrícia Gomes,Tarde
+PR0188,16-03-2025,Injetora Plástica 01,Suporte Metálico,635,600,360.0,André Nascimento,Tarde
+PR0239,21/03/2025,EXTRUSORA 01,Engrenagem Industrial, 337 ,350,447.0,Fernanda Lima,Noite
+PR0222,2025-03-20,Torno CNC 01,Suporte Metálico,483,600,377.0,Fernanda Lima, Manhã 
+PR0118,2025-03-10,Extrusora  01,Eixo Automotivo,508,480,435.0,Roberto Alves,Noite
+PR0249,2025-03-22,EXTRUSORA 01,Carcaça Plástica,607,700,355.0,André Nascimento,Tarde
+PR0242,2025-03-22,Torno CNC 02,Engrenagem Industrial,291,350,445.0,Fernanda Lima,Tarde
+PR0251,2025-03-23,TORNO CNC 02,Suporte Metálico,591,600,427.0,Patrícia Gomes,Manhã
+PR0297,2025-03-27,Prensa Hidráulica 01,Carcaça Plástica,671,700,368.0,Patrícia Gomes,NOITE
+PR0060,2025-03-05,EXTRUSORA 01,Carcaça Plástica,698,700,378.0,Camila Rocha,Tarde
+PR0023,03-03-2025,Torno CNC 02,Componente Hidráulico,252,300,382.0,Fernanda Lima,Noite
+PR0066,2025-03-06,Prensa Hidráulica 01,Engrenagem Industrial,292,350,441.0,André Nascimento,Tarde
+PR0126,2025-03-11,Solda  Robotizada  02,Suporte Metálico,512,600,402.0,Carlos Souza,Tarde
+PR0252,2025-03-23,FRESADORA 01,Eixo Automotivo,406,480,434.0,André Nascimento,Tarde
+PR0057,05/03/2025,Solda Robotizada 02,Suporte Metálico,560,600,2704.656115614561,,Noite
+PR0127,11/03/2025,Extrusora 01,Componente Hidráulico,317,300,425.0,Roberto Alves,Manhã
