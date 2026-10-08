@@ -73,12 +73,11 @@ O cenário é a **TECFOR Industrial**, uma fábrica com 10 máquinas, 5 produtos
 
 ```text
 projeto/
-├── DesafioFinalDupla.ipynb              # Notebook com todas as etapas da pipeline
+├── analise_tecfor_industrial.ipynb              # Notebook com todas as etapas da pipeline
 ├── producao.csv                         # Dados brutos do setor de Produção
 ├── sensores.json                        # Dados brutos de monitoramento de máquinas (JSON aninhado)
 ├── manutencao.xlsx                      # Dados brutos do setor de Manutenção
 ├── qualidade.parquet                    # Dados brutos do setor de Qualidade
-├── Projeto_Integrador_TECFOR_Industrial.pdf  # Enunciado/especificação completa do desafio
 ├── base_industrial_final.parquet        # Base tratada e integrada (gerada pelo notebook)
 ├── base_industrial_final.csv            # Mesma base final, exportada em CSV
 └── grafico_*.png                        # Gráficos gerados na Etapa 9
@@ -102,7 +101,7 @@ pip install pandas numpy matplotlib openpyxl pyarrow
 **Passos:**
 
 1. Coloque os quatro arquivos de dados (`producao.csv`, `sensores.json`, `manutencao.xlsx`, `qualidade.parquet`) na mesma pasta usada no notebook — o código atual referencia o caminho `/content/`, próprio do Google Colab, então ajuste para o caminho local se for rodar fora do Colab (ex. `pd.read_csv("producao.csv")`).
-2. Abra `DesafioFinalDupla.ipynb` em Jupyter Notebook, JupyterLab ou Google Colab.
+2. Abra `analise_tecfor_industrial.ipynb` em Jupyter Notebook, JupyterLab ou Google Colab.
 3. Execute as células em ordem — cada etapa depende do resultado da anterior (tratamento → padronização → integração → métricas → análise → visualização → exportação).
 4. Ao final, a base tratada é salva como `base_industrial_final.parquet` e `base_industrial_final.csv`, e os gráficos são salvos como arquivos `.png` na mesma pasta.
 
