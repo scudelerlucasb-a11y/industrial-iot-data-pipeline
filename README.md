@@ -144,7 +144,12 @@ Os sensores, que chegam com uma leitura por timestamp, são agregados por `id_ma
 <a id="demonstracao"></a>
 ## 🖥️ Demonstração
 
-`[ADICIONAR SCREENSHOTS OU LINK DA DEMONSTRAÇÃO]`
+![Produção por máquina](grafico_1_barras_producao.png)
+![Evolução da vibração](grafico_2_linha_vibracao.png)
+![Distribuição da eficiência](grafico_3_histograma_eficiencia.png)
+![Temperatura x vibração](grafico_4_dispersao_temp_vibracao.png)
+![Custo de manutenção](grafico_5_custo_manutencao.png)
+![Painel de KPIs](grafico_6_painel_kpis.png)
 
 O notebook gera os seguintes gráficos ao ser executado (salvos como PNG):
 
